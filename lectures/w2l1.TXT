@@ -1,0 +1,79 @@
+Continue with chapter 1, unwrapping the gift
+
+Social networking
+- businesses to customers
+- protesting, demonstrations organization
+- crowdfunding, seeking volunteers
+
+Organizations/business today scan the social media of hiring prospects to see if 
+  they are suitable candidates and fit the image of the business/organization
+- commonplace
+
+Yin-Yang
+- one minute you can slander someone on Twitter
+- the next you can donate to a cancer patient
+- both anonymously
+- good and bad can be done via the Internet
+
+Bots
+- can be used to scrape for data for good or bad purposes
+- simulates humans and are becoming increasingly difficult to distinguish from humans
+
+Ethical questions
+- Jurors can now tweet about cases of an on-going case
+- tech allows for stalking and bullying
+
+In the 80s, emails were short and contained only text
+- email still happens today, but texting, social media, and tweeting are more preferred
+
+The Internet originated from ARPANet
+
+Blogs
+- written by amatuers and professionals
+- rarely are reviewed for accuracy
+- an op-ed, essentially
+  - may be accurate, but how do you know?
+- avoid using blogs as sources
+
+Wikis
+- are similar to blogs
+  - great place to start research, but should not be used for sourcing
+
+Quality
+- The quality of a production/article can be an indicator of potentially misleading
+information
+- probably not peer-reviewed
+
+Telemedicine
+- today, some surgeons have the ability to conduct procedures remotely via specialized robots
+- can also counsel other surgeons in real-time
+
+E-commerce
+- amazon profits increased during the pandemic
+- online sales in the U.S. total hundreds of billions per year
+- sellers can sell directly to buyers
+  - has lead to a sharp decline in retail
+- driven by convenience and security (PayPal)
+  - sec. promoted by advances in encryption, BBB, rating systems, and trusted names for
+    transactions
+  - Target breach via janitorial contracts
+- breached sources was a janitorial service w/ poor cyber sec
+- hackers compromised they databases and piggy-backed into Target systems
+
+Free stuff
+- email, browsers, software
+  - junk mail makes money because of sheer volume results in at least a few customers
+  - 1% sales rate of 10M potential customer pool results in 100K sales
+- can collect data on users and sell the data
+- advertising revenue can be collected from free content
+- businesses can provide service for public good as marketing tool
+- sharing info/help forums exist because some people just want to share expertise for free
+  - Stack Overflow
+
+AI
+- We don't fully understand the implications of what AI will do
+- good at narrow, specialized tasks
+- Delta
+  - it's AI sends notifications for 1 minute changes in departure for flight scheduled
+    to leave months from now
+  - results in wasted time and mental and cyber resources

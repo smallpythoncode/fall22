@@ -1,0 +1,44 @@
+Record 5-min presentation and upload in yuja
+
+CH 1 - Unwrapping the gift
+
+The pace of change
+The microchip has resulted in a greater leap forward than the printing press did
+1940s - first computer built
+56 - first HDD, 5 mb, weighed a ton
+91 - space shuttle launched a 1 megahertz computer
+- in the old days, data was stored on punch cards
+
+first computer took up an entire room & ran on vacuum tubes
+first digital computer, the atanasoff-berry computer (ABC)
+- built in 1942 @ Iowa State College
+
+Alan Turing - did some cool things
+A Turing machine is an implementation of an algorithm, typically as hardware
+- some have memory, some don't
+
+Cell phones - few in the 90s
+- approx. 5 billion in 2011
+Phones are a critical aspect of modern life
+- more a necessity than a nicety
+
+Change and unexpected developments
+- kill switches
+  - allows remote disable ability & delete files
+  - are in the OS of phones, tablets, and some desktops
+  - designed for security, but raises concerns of autonomy
+
+ethical questions arise from self-driving cars and "fire" autonomy for military equipment
+
+Arian 4 software was put in Ariane 5 w/out testing
+- kill switch is in all launch vehicles to blow it up to prevent casualties on the ground
+- Arian 5 had an unintended trajectory and the switch was pulled
+
+Software has a long way to go
+- Tesla hardware is incredible
+- It's software has yet to be programmed to a level of accuracy to predict all situations
+
+As interfacing w/ devices has increased, face-to-face comms w/ fellow humans has seemed
+  to decrease. Is this progress?
+
+Do you blow the whistle in the face of ethical questions? Or do you continue to get paid?
