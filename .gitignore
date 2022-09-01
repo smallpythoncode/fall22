@@ -5,5 +5,5 @@ venv/
 .idea/usage.statistics.xml
 .idea/tasks.xml
 #csci289
-lectures/video/*.mp4
-!lectures/video/
+lectures/video/*
+!lectures/video/.gitkeep
