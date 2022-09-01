@@ -6,4 +6,4 @@ venv/
 .idea/tasks.xml
 #csci289
 lectures/video/*
-!lectures/video/.gitkeep
+!.gitkeep
