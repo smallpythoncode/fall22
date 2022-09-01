@@ -5,3 +5,4 @@ venv/
 .idea/usage.statistics.xml
 .idea/tasks.xml
 #csci289
+lectures/video/*
