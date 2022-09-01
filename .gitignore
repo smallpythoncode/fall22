@@ -6,3 +6,4 @@ venv/
 .idea/tasks.xml
 #csci289
 lectures/video/*.mp4
+!lectures/video/
