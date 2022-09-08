@@ -8,3 +8,140 @@ first amendment was written to protect offensive and controversial speech
 covers not merely the spoken word but also written words, art, picture, podcasts
 
 publishers may choose to ban speech they find offensive or unfitting their brand
+
+PG 162
+if the federal government (and probably smaller forms) fund certain programs, it can
+and does elect to place restrictions on free speech in those programs' media
+- discussion on abortion, religion, etc.
+
+3.1.2
+
+Three categories of FA protection:
+1. print media (newspapers, books)
+2. broacast (TV, radio)
+3. common carriers (telephone, post)
+
+PRINT
+Strongest protection because no question about whether FA is applied
+Some restrictions (e.g., banned books)
+
+BROADCAST
+Gov't regulates structure and content
+- issues broadcasting licenses to meet standards of merit
+  - differs from print (no license) in freedom of expression
+- no cigarette ads on TV, radio, but in magazines allowed
+
+Main argument to deny full FA protection is scarcity of broadcast frequencies
+- in exchange of monopoly privilege
+- mostly negated because of the internet, but precedent remains
+- broadcasts materials to the home and subsequently children
+
+COMMON CARRIERS
+- mode of communication; not considered content
+- required to be made available to everyone
+
+Do not provide content as might be discriminatory against competing providers
+  who must also use telephone lines
+
+PG 164
+Because internet is so flexible, it does not fit neatly into a single category
+
+Telecommunications Act of 1996
+- revised the Communications Act of 1934
+- clarified the question of liability on ISPs
+-->
+
+Print publishers are liable for all content as they are the editor
+Tele. Act stated "no provider or user of an interactive computer service
+  shall be treated as the publisher or speaker of any information provided by
+  another information content provider"
+
+PG 165
+Communications Decency Act of 1996
+- Supreme Court ruled its censorship provisions unconstitutional
+
+3.2
+PG 166
+What is offensive speech? Is it illegal?
+
+Depending on the smoothness
+of one's brain, literally
+anything could be offensive
+to someone on the Internet.
+
+*********
+"A doctor argued for regulating medical discussion in the [Internet]
+  so that people would not get bad advice."
+Public safety vs. freedom of expression
+*********
+
+porn or sexually explicit material is the basis of most
+censorship efforts in the US
+
+erotica vs. art. vs porn
+
+SC ruled FA does not protect obscene material
+Miller vs. California (1973)
+
+What is obscene?
+1. sexual acts prohibited by state law
+2. patently offensive, appealing to prurient interest judged by
+  a reasonable person
+- having or encouraging an excessive interest in sexual matters.
+3. no serious literary, artistic, social, political, or scientific value
+
+"This court can find no meaningful difference betweeen computer
+language...and German or French.... For the purposes of the First
+Amendment analysis, this court finds that source code is speech."
+
+3.2.2
+PG 168
+
+SC ruled that many laws enacted in the first decade of the
+internet to censor porn were violated the FA
+
+Comms. Decency Act, 1996 made it illegal to distribute content
+that may may be harmful to children
+
+Butler vs. Michigan, 1957
+Justic Frankfurter stated the state must not "reduce the adult population
+of Michigan to reading only what is fit for children"
+
+American Civil Liberties Union et al. vs. Janet Reno
+ruled unanimously that CDA provisions were unconstitutional
+"the Internet deserves the highest protection from government intrusion."
+
+PG 171
+Alternatives to censorship
+
+software filters can block websites with specific words, phrases, or images
+log internet activity
+- good for parents to monitor children
+filters are not perfect
+- can block innocuous words, such as Essex
+- fail to block far-out objectionable material
+
+PG 172
+"harmful and dangerous conduct, not speech, [is what] justifies
+adverse legal consequences."
+- Senator Patrick Leahy
+
+PG 173
+VIDEO GAMES
+The interactive nature of video games is the reason given by many
+their opponents
+
+SC ruled a California ban on sale or rental of violent
+video games to minor violated the FA in 2011.
+- "disgust is not a valid basis for restricting expression"
+
+PG 174
+CHILD P. LAW
+
+
+
+
+
+
+
+
