@@ -1,0 +1,210 @@
+FIRST BRIEF
+4 technologies from 1.1 and 1.2
+
+today's conversations happen instantly
+- text, discord, etc
+
+1. self-driving vehicles
+- designed with reduing human-caused traffic accidents
+if something goes wrong? who is to blame?
+
+2. Social media
+good
+- crowdfunding, connecting with family
+bad
+- cyber bullying, stalking
+neutral
+- selling of data
+
+3. Artificial intelligence
+Turing test - convincing the user it is human
+- john Sarrow refutes this concept
+  - ai has no idea they are winning
+  - just doing what they are told
+
+4. tools for disabled people
+- walking paths for the blind
+- prostetics to improve walking for disabled peole
+what happens if a pace maker gets hacked?
+
+What happens when we all have chips in our heads?
+- how much of our day-to-day become obsolete
+
+Keep in the mind the ethics of handing decisions over to technology
+
+SECOND BRIEF
+1.3, 1.4
+different recurring themes in the book
+
+The internet
+- global communication
+- law enforcement has become more complex because it's global
+- difficult to adapt to new technology
+
+Companies can be slow to adapt to change
+- taxis vs Uber
+
+No perfect options
+- to tech is w/o it's fault
+- what does the law have to say about new tech?
+  - can lead to lawsuits
+
+law vs individual choices vs corporate polices
+- each distinct
+- not every idea is good under the law
+
+1.4 Ethics
+- the study of doing the right thing
+
+deontological vs utilitarian
+De. (KANT) - rigid and strictly rational
+- good because it is rational
+  - always wrong to lie
+uTILIT. - focused on increasing the happiness of the world as a hold
+positive vs negative rights
+
+social contracts
+- Hobbs - electing to do something for the common good
+- Golden rule
+
+posible third option
+- is it "okay"
+- neither good nor bad, no harm, no foul
+
+BRIEFING THREE
+2.1 2.2
+
+Privacy is of the utmost importance
+- free of being observed or disturbed
+
+3 parts of privacy
+
+some limitations
+freedom of intrusion
+- not 100% anonymous all the time
+
+control of information about oneself
+- limited in what we can say
+- can't call to act in an illegal way
+
+freedom from surveillance
+- hackers can illegal compromise our systems
+- stores have cameras if we like them or not
+
+upsides of compromised privacy
+phones have evolved with privacy in mind
+2-fact authentication to ensure it's you
+
+smart phone apps can (do) track your data
+- but you downloaded the app, that's the tradeoff
+
+stolen and lost data
+- service provider locks to phone to protect
+
+privacy can become personalized
+- businesses track history and usage
+  - Amazon provided purchase recommendations
+
+social, individual, and tech considerations of privacy
+
+BRIEF FOUR
+2.3, 2.4
+PRIVACY in regard to 4th amendment
+govt agencies use of tech
+
+targeted ads
+companies watch over you
+...but so can the government
+
+does the 4th am. protect your tech?
+
+1928
+- wire tapping by law was not unconst. because not to the home
+
+1967 reversed
+- protects persons, not places
+
+this law does not extend to information we have
+freely publicly shared
+
+today's LE uses open source all the time
+
+NSA at one time just kind of ignored the 4A
+
+1978, Foreign Intel Survel Act
+- established the bounds of NSA
+
+Edward Snowden leaked the extent the gov.
+allegedly goes in collecting on persons
+perhaps US persons
+
+=====================
+
+LECTURE
+
+Ch 2 Addresses the issue of privacy
+4th Am.
+- privacy of self and our effects
+- technology upended that
+
+With the state of technology today, it
+would not be unreasonable to say that
+privacy is dead
+
+taking data from different sources,
+analyzing them as a whole, and
+the inferences that can be drawn
+from that can be a huge threat to privacy
+
+EDWARD SNOWDEN INTERVIEW w/ JOHN OLIVER
+June 1, reauthorization of the Patriot Act
+
+Programs
+- X key score
+- Mystic
+
+section 215, Pat. Act
+- pat act written as a response to 9/11
+  - gave the govt far reaching privelgest to
+collect and means of collect
+
+Was snowden aware of the ramifications of his
+actions?
+
+215 was very broad
+- can ask for any intangible things if they 
+suspect any suspected terrorism
+
+FISA court overseas 215
+
+govt hold phone records but not the calls themselves
+- numbers and durations of calls
+
+pat act was routinely reinstated time and time again
+- "BTW, patriot act got extended for 4 years..."
+
+we no longer have the luxury of ignorance
+of these leaks despite what we think
+of how the info was leaked
+
+security vs privacy
+- one places restrictions on the other
+
+we spied on unicef according to snowden
+
+did snowden consider the consequences?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

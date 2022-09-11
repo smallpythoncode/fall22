@@ -1,0 +1,124 @@
+First Brief 2.4, 2.5
+2.4 govern systems
+- do these systems provide value to society?
+- do they infringe on our privacy?
+
+many people at jan 6 were identified via video
+
+2001 superbowl
+- innocent people were misidentified as felons
+- scanned 100,000 people w/o their knowledge
+
+Dept of ED proposed a system to track
+our sex, major, etc
+- do grads w/ finance aid do better?
+
+public records
+- should they be accessible to the public?
+
+Use of soc sec as defacto identifier
+is a threat as we're not sure how secure it is
+- social engineering
+
+2.5 protecting privacy
+dev privacy tools
+- enabling do not track in browsers
+  - do they adhere to request?
+
+ethics of blocking ads
+- why shouldn't we block ads?
+  - ads pay for free video, soc med, etc
+  - supports small online publishers?
+
+policy for prot personal data
+ethical and legal responsiblities
+- companies spend large sums on privacy audits
+
+SECOND BRIEF 3.1, 3.2
+didn't need to listen, i did this for my topic
+
+Lecture
+privacy risks and principles
+
+threats come in several categories:
+- intentional, institutional uses of person info
+- unauthorized use of release by insiders
+- theft of information
+- inadvertent leakage of information
+- our own actions
+
+when people feel comfortable talking freely,
+they may give up details of very personal information
+
+UND compensation packages may be in the public domain
+- Herald requested that information
+
+new tech, new risks
+- government and private databases
+- sophisticated tools for surveil. and data analysis
+- vulnerability of data
+
+A driver's license is not your property
+- grant of permission to drive on govt funded roads
+
+Some states sell the information collected
+for license grant
+- are citizens aware of this?
+- are people are of what information goes to the police?
+  - police cross check your wallet info against their database
+EXAMPLES
+search query data
+- search engines collect tons of data daily
+- this is analyzed to target advertising and dev
+new services
+- who gets to see this data?
+- should we care?
+
+smartphones
+- location apps
+- data sometimes stored and sent w/o
+user's knowledge
+- facial recognition software was initially
+tested on primarily white people's faces
+  - minorities were often misidentified
+
+- anything we do is cyberspace is recorded
+- huge amounts of data are stored
+- people are not aware of data collection (often times)
+- software is complex
+- leaks happen
+
+NSA is charged with monitoring comms w/in
+the united states
+- at what point does it violate our rights
+- per the constitution, some data just can't
+be shared between agencies
+  - pat act allows some exceptions
+
+- a collection of small items can provide a detailed picture
+- re-identification has become much easier due to the
+quantity of information and power of data search
+and analysis tools
+- if information is on a public website, it is avail
+to everyone
+
+Watergate
+- confidential DNC information was
+was given to Nixon, but he denied
+- led to his resignation in the face of impeachment
+- who was DEEP THROAT?
+  - Bob Woodward was given information by DT
+  - revealed as Mark Felt in 2005
+
+site information
+- how long was the visit
+- what you looked at
+- how much you spent
+- doesn't include a name in the data
+
+- combined w/ other info, a person can be identified
+- id data coupled w/ reserach data
+
+SNOWDEN - PART II
+
+
