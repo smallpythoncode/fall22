@@ -1,0 +1,179 @@
+continuing Chpt 2 - Privacy
+
+New tech, new risks
+
+some risks
+- information on the Internet seems to last forever
+- data collected for one purpose will find other uses
+- government can request sensitive personal data held by
+businesses and organizations
+- we cannot directly protect information about ourselves.
+We depend upon businesses and organizations to
+protect it.
+
+we often give up a lot of our personal information
+w/out knowing what will happen to it onces it's on the web
+
+
+
+State of Surveillance: Police, Privacy, and Technology
+https://www.youtube.com/watch?v=6VkKeM-OK6g
+# O might actually be 0
+
+Live version of Google Earth w/ TiVo capability
+security vs. privacy - the trade-off
+
+NSA has been collecting intel on Americans online
+and phone comms for years
+
+San Diego police now have cameras w/ facial
+recognition software to identify detainees
+unwilling to give up their identity
+
+"We intimidate you into giving us your information
+because we have this computer that will tell us.?
+
+FBI has huge databases to store biometrics
+- 370 million fingerprints
+- looking to integrate facial biometics
+- 160,000 searches a day
+
+fingerprints used to be documented
+and searched through by hand
+
+Also adding iris data since it is unique
+
+Anyone could end up being in the database
+FBI is being sued to disclose what data
+is being stored and how
+
+A number of times, people become suspects
+because of innacuracies in the software
+
+Where's the line between safety and spying
+
+1000 cameras in LA to scan faces
+up to the minute map of events going on in the city
+
+Opens the possibility of predictive policing
+
+A giant camera on a plane tracks a 25 sq mi
+area for up to 6 hrs
+
+Allows for recall of information rather
+than only looking at real-time
+
+tested in Philly, Baltimore, Dayton
+
+BIG BROTHER
+
+Allows for an ability to track suspects greater
+than traditional policing
+
+No police system has yet purchased the system
+
+The resolution on video is not yet advanced enough to be
+admissible in court
+
+WIDE AREA SURVEILLANCE
+
+There are already cameras in every ATM
+- most (not all) are already used to being monitored all the time
+
+Where is the line drawn between security and privacy?
+
+
+
+
+A False Facial Recognition Match Sent
+This Innocent Black Man, Nijeer Parks to Jail
+https://www.youtube.com/watch?v=4Dul3adrvXo
+
+
+
+
+
+
+
+
+
+
+
+Facial Recognition: Last Week Tonight with John Oliver
+https://www.youtube.com/watch?v=jZjmlJPJgug
+
+The tech was so advanced that things got out of hand
+
+Applications are being expanded greatly...even to fish...
+- identifies weaker fish based on physical characteristics
+
+The potato factory in GF used scanning software to scan the
+color of the potato to determine the grade of fries
+
+Privacy and civil liberties issues may arise if this
+software becomes widely adopted
+
+FindFace app
+- scan someone's face to find their social media profile
+
+roughly half of all americans photo id have been cross
+checked by the FBI
+
+There are concerns that this tech is being used
+to identify BLM protestors
+- linked w/ social media profiles
+- looked for people w/ outstanding warrants
+
+China can track your movements 1 week back
+- knows your license plate, you associates, frequently visited places
+
+China's tracking system is called SKYNET
+- Social credit system
+
+The tech is still a work in progress
+- in a UK test, only 8/42 identifications were correct
+
+Turns out...facial recognition software troubles
+to id black women
+...facial software is racist
+
+Amara Majeed was wrongly identified as a terrorist in sri lanka
+
+Are we comfortable w/ this being used even if the software
+is perfect?
+
+clearview.ai
+hoan ton-that
+a search engine for faces based on publically-available
+databases that have been scraped
+- like, scrapes the whole internet
+
+over 600 le forces have been identified as using the service
+
+companies claim they have a FA right to harvest data
+
+Used by DEA, FBI, Kohl's, Macy's, and Walmart
+
+Ton-That claims he would never sell to NK, China, etc.
+
+But has sold to UAE and Saudi Arabia...quietly
+
+San Francisco banned facial recognition tech by LE
+but not other govenrment entities or private companies
+
+IBM is no longer developing
+Amazon put a 1 year hold on dev this software
+
+If you were identified as being near the location of a crime,
+now you are a person of interest to the police
+
+Or you may be misidentified
+
+The use of tech must be tampered
+Are wer really ready as a society to handle the ethical questions
+that arise from this tech?
+
+Pew Research indicates that this high-tech is being used to solve
+petty crimes
+- will tech and analysis be used to solve more intense crime?
+- is that not sexy enough?

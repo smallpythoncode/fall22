@@ -1,0 +1,271 @@
+Presentation - Ch 4.5, 4.6
+Free stuff on the internet
+Ethics of free software
+- open source
+- has many advantages over closed-source
+  - can be adopted for specifice uses w/
+limited resources (time, investment)
+
+copyleft
+- free use of modification, but
+any derivative software, i.e., implements
+use of software in source, must also
+carry the same license
+
+how will software be developed if
+no one is getting paid?
+
+often kept alive by donations
+
+will not replace the need of propriety
+
+software cannot be patented because it
+is abstract, but hardware that uses it
+can be
+
+Should Barnes & Noble's one-click buy
+patent have been approved at all?
+
+useful, complete, or tangible result
+SC guideline if patent can be allowed
+
+patent abuse has become more common in recent
+years
+- limits innovation
+- not impossible to tip-toe around
+
+good and bad w/ software patenting
+
+
+Presentation - Ch 3.6, 3.7
+the role in internet in freedom of speech
+China, Saudia Arabia has heavy restrictions
+in order to protect their power
+
+many companies will change their operating
+procedures and content in order to be
+accepted in the huge chinese market
+
+censorship right under our noses in the west
+
+government has attempted to shut down
+messaging apps in the name of "safety"
+at certain times
+
+Net Neutrality
+universal quality and access to the interet
+
+opposition propose tiered access
+the higher the tier, the better the web experience
+
+isn't money a reasonable barrier to quality
+of access to the interet?
+
+Presentation - Ch 4.1, 4.2
+
+Intellectual property is a work or
+invention that can apply for rights
+
+copyright - legal rights to a certain property
+patent - protect inventions from knock offs
+and copy cats
+
+the buyer purchases certain rights
+buyer may resell a book, but cannot make copies
+for profit
+- can for education w/in reason
+
+limited right time for books
+- lifetime plus 70 years
+
+exact replicas are more easily created now
+than in previous eras
+
+not being able to afford a copyrighted work
+is not a defense against acquiring it by other means
+
+Beta Max allowed the recording of TV
+is this on Sony or the customer?
+SC ruled that is is okay for fair use
+
+Nintendo - copying of games
+for reverse engineering is legal
+Apple - cut and paste is so common
+in computers that these features
+have no rights
+
+
+Presentation - 4.3, 4.4
+
+industry vs copyright infringement
+
+copy protection mechanisms
+dongles, expiration dates, special
+serial numbers for activation
+
+hackers don't care
+these mechanisms are clunky
+and not user friendly
+
+"software police" would raid places
+that pirate digital content
+
+entertainment companies would litigate
+against people who make copies
+
+DIGITAL RIGHTS MANAGEMENT
+- limits free use
+- allows the company to tailor how
+their content can be used
+
+DIGITAL MILLENIUM COPYRIGHT ACT
+- bans the sharing of DRM circumvention tools
+- safeharbor provisions protects platforms
+from litigation if they put in reasonable
+measures to protect the copyright owners
+content from piracy
+
+Search engines and online libaries
+
+search engines on the surface fit fair
+use guidelines but they also make money
+from ads on just snippets of content
+
+Author's Guild et al vs Google
+- judged ruled this fair use
+- turns books into something new and
+valuable society
+- deemed to be free content
+- author's guild argued that the
+amount of content was excessive
+and the judge's definition of
+fair use was unprecedented
+
+
+Presentation - 2.6, 2.7
+protection of privacy rights
+
+up until late 19 century, there
+were sparse laws on privacy
+
+1890, the right of privacy
+samual warren article argued
+for the need for privacy of
+for citizens
+
+targeted newspapers for publishing
+personal details and opinions
+on social standing
+
+the calls for privacy in this manner
+seemed very broad and seems to be
+in opposition of freedom of the press
+
+the amount of personal information
+stored today is mind-blowing
+- how does this impact privacy today
+
+confidentiality agreements
+
+privacy regulations in the EU 2.7
+- directive regulates how data
+is stored, distributed, and used
+- 1995
+
+US companies make money from harvesting
+personal data and lobby the government
+for their right to do so
+
+
+==============================
+Ch 2 wrap up
+
+National ID systems
+- Social security numbers
+  - too widely used
+    - too widely, perhaps. old numbers
+from deceased persons have been reused
+  - easy to falsify
+  - was not created to identify persons
+- various new proposals would require
+citizenship, employment, health, tax,
+financial, or other data, as well as biometric
+information. In many proposals, the cards
+would also access a variety of databases
+for additional info
+
+New system pros
+- would require the card
+- harder to forge
+- have to carry only one card
+cons
+- threat to freedom and privacy
+- increased potential for abuse
+
+PROTECTING PRIVACY
+tech and markets
+- privacy enhancing-techs for consumers
+  - WhatsApp provides end to end encryption
+  - FB claims it's using info for performance
+metrics, not collection of personal data
+- encryption
+  - public-key cryptography
+- business tools and policies for protecting
+data
+
+encryption policy
+- government ban on export of strong
+encryption software in the 90s (removed in
+the 2000s)
+
+rights and laws
+- Warren and Brandeis: in involate privacy
+- Judith Jarvis Thomson: Is there a right to privacy?
+  - how is this defined today in terms of tech
+
+- transactions
+- ownership of personal data
+- a basic legal framework: enformcement of
+agreements and contracts
+  - NDA are implemented to protect
+copyright information
+- regulations
+
+Harley Davidson tried to trademark
+the sound of their engines
+- denied because the engine
+was not created for the purpose of making
+that sound
+
+Rights and Law: contrasting viewpoints
+
+free market view
+- freedom of consumers to make voluntary
+agreements
+- diversity of individual tastes and values
+- response of the market to consumer prefernces
+- usefulness of contracts
+- flaws of regulatory solutions
+
+consumer protection view
+- uses of personal info
+- costly and disruptive results of errors
+in databases
+- ease w/ which personal info leaks
+out
+- consumers need protection from their
+own lack of knowledge, judgment, or
+interest
+- regulations have come into being
+in the name of protection that
+mandate a disclaimer be made
+on how companies use the data
+
+How would the free market view and the
+consumer protection view differ on errors
+in Credit Bereau databases?
+
+Who is the consumer in this situation?
+
+
+

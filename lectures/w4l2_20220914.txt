@@ -1,0 +1,184 @@
+Continuing on Ch 2. Privacy
+
+PRIVACY RISKS AND PRINCIPLES
+
+Terminology
+Personal info - any info relating to an individual
+informed consent - users being aware of what info
+is collected and how it is used
+invisible info gathering - collection of personal
+about a user w/o the user's knowledge
+Cookies - files a web site stores on a visitor's
+computer
+secondary use - user of personal info for a purpose
+other than a the purpose for which it was provided
+  - e.g. use of a driver's license for voting
+data mining - seaching and analyzing masses of data
+to find patters and develop new info or knowledge
+computer matching - combining and comparing info
+from different databases (using social sec num, e.g.)
+to match records
+computer profiling - analyzing data to determine
+characteristics people most likely to engage in
+certain behavior
+
+two common forms of providing informed consent
+are opt in and opt out
+opt in - the collector of the info may use info
+only if the person explicitly permits use (usually
+by checking a box)
+opt out - persom must request (usually by checking
+a box or email) that an organization not use info
+
+- the human particle: certain things are true about
+almost all human beings in general
+  - e.g., you will forget very unimportant details,
+such as the color of someone's shirt from last week
+  - another ex. most people will sign up for services
+offered for free for a trial period but will forget
+to cancel w/in a month
+- some governments have taken this issue up to 
+protect consumers
+  - some entities use this very predatorially
+- most people do not read the fine print of a deal
+
+FAIR INFORMATION PRINCIPLES
+1. Inform people when you collect information
+2. Collect only the data needed
+3. Offer a way for people to opt out
+4. Keep data only as long as needed
+5. Maintain accuracy of data
+6. Protect the security of data
+7. Develop policies for responding to law
+enforcement requests for data
+- controversial; will ISP, cell providers
+cooperate?
+  - San Bernadino attackers had their phones
+protected; Apple refused LE request to give
+the data as they assure the phones are hack
+proof and lose a selling point by doing so
+    - FBI paid $1M to get in; there
+was nothing on phone
+      - a university professor purchased
+software/hardware for $100
+- created a copy of the registers on the
+iPhone and kept brute forcing the copy
+- after 10 attempts to get in, the phone
+gets wiped
+- they just kept copying from the register
+after the wipe
+  - ROI: $999,990
+
+- Service providers coop w/ LE but don't give
+full data
+
+The fourth Amendment states persons be secure
+in the persons, houses, papers, and effects
+- there is a gray area when it comes to tech
+  - do the persons own their data or do the
+providers of services own the data?
+- does a warrant state electronic communication
+devices
+  - are flash drives electronic communcation devices?
+- restrictions are placed on the government
+  - people claim 4th Am. violations and then
+freely give information
+
+- private companies are not constrained by the 1, 4 A
+  - they can mandate that speech (political, religious,
+etc.) are not permitted
+  - can run searches on computers they own but
+allow employees to use
+  - you're an employee and your opinions reflect
+the company
+
+- Fourth sets limits on government's rights
+to search our homes and business and seize documents
+and other personal effects. Requires government
+provide probable cause
+- 2 problems arise from new technologies
+  - much of our personal information is not longer
+safe in our homes; it resides on huge databases
+outside of our control
+  - new tech allows the government to search our
+home w/o entering them and search our persons
+from a distance w/o our knowledge
+- make a possible "noninvasive but deeply revealing"
+searches
+  - particle sniffers, imaging systems (thermal),
+location trackers
+- what restrictions should we place on their use?
+When should we permit government agencies to use
+them w/o a search warrant?
+  - in some cases, gov't has deemed LE cannot
+use them as the means (thermal imaging, ex.) are
+not publically available and LE's use provides them
+an unreasonable advantage to gather intel
+- Fourth protects tangible things
+  - is data tangible? if not, can LE use it
+
+Olmstead vs. United States (1928)
+- SC allowed the use of wiretaps on telephone
+lines w/o a court order
+- interpreted the Fourth to apply only to physical
+intrusion and only to the search or seizure of
+material things, not conversations
+
+Olmstead reversed w/ Katz vs. United States (1967)
+- SC reversed and ruled that Fourth does apply to
+conversations
+- court said Fourth protects people, not places.
+to intrue in a place where a reasonable person
+has a reasonable expectation of privacy requires
+a court order
+- communications as personal property
+
+Do not talk to the police during an investigation
+where you are not the obvious victim
+
+Kyllo v US (2001)
+- SC ruled that police coudl not user thermal
+to search a home from outside w/o a search warrant
+- court stated "government uses a device that
+is not in general public use, to explore details
+of the home that would previously have been
+unknowable w/o physical intrusion, the surveillance
+is a 'search'"
+
+How should we interpret "plain view" for search
+of computer or smartphone files?
+
+Security cameras
+- do they increase security?
+  - there are regulations on college campuses
+- do they decrase privacy?
+  - in some countries (e.g., South Korea),
+there are cameras everywhere except for inside
+bathrooms
+  - should this footage be persmissible in court?
+  - the view of privacy has changed because
+of tech
+
+Should organizers at events which are possible
+terrorist targets use such systems?
+- I would say there is a general expectation
+of safety at such an event. I don't like it,
+but it is reasonable
+
+Should we allow them to screen for people
+w/ unpaid parking tickets?
+- I would so no, that's not the purpose
+of the event
+
+
+
+
+
+  - will state when calls/texts are sent but
+won't give any detail, only a time stamp
+
+
+
+
+
+
