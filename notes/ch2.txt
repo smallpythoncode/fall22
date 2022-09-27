@@ -1,0 +1,183 @@
+3 aspects of privacy:
+1. Freedom from intrusion
+2. Control of information about oneself
+3. Freedom from surveillance
+
+Privacy threats:
+- Intentional, institutional uses of personal info
+- Unauthorized use or release by "insiders"
+- Theft of info
+- Inadvertant leakage of info through negligence or carelessness
+- Our own actions
+
+Just assume that every action taken online is logged
+- some gets stolen
+- some gets sold
+
+Informed consent - when a business or organization informs
+people about its data collection and use policies or about
+the data that a particular device or app collects
+
+opt in / opt out
+- The two most common forms of giving people some control over
+secondary uses of info
+
+Opt-out - One must check a box on an agreement or contact
+the organization to request that the organization not use
+one's info in a particular way
+
+Opt-in - the collector of the info may not use it for certain
+secondary uses unless the purpose explicitly permits it
+
+Data mining - searching and anlyzing masses of data to find patterns and
+develop new information or knowledge
+
+Matching - combining and comparing info from different
+databases
+  - often using identifiers such as SSN or IP Addresses
+
+Profiling - analyzing data to determine characteristics of people most
+likley to engage in certain behaviour
+
+Fair Information Principles/Practices
+- ethical guidelines for protection of personal data
+- wide variation in interpretation, however
+
+- inform people on when info is collected, what is collected,
+how it is used
+- collect only data needed
+- offer opt out methods
+- keep data only as long as needed
+- maintain accuracy of data
+- Secure the data
+- develop and publish policies for responding to law
+enforcement requests for data
+
+2.2.1
+One argument for the tracking of online data for online marketing
+purposes is that it allows customers to see only ads they have
+a potential interest in, rather than ones the potential customer
+and has zero interest in
+- more pleasing to the customer
+- let's face it, ads are not going away
+- Google claims to display not untargeted ads
+
+
+
+2.2.4
+The right to have material removed, as a legal or ethical right,
+has come to be called a "right to be forgotten"
+
+2.3.1 - The Fourth Amendment
+"The right of the people to be secure in their persons, houses,
+papers, and effects, against unreasonable searches and seizures,
+shall not be violated, and no Warrants shall issue, but upon probable
+cause, supported by Oath or affirmation, and particularly describing
+the place to be searched, and the persons or things to be seized."
+
+William Pitt in 1763 --> "...but the King of England cannot enter."
+
+2.4.1 - Video Surveillance and Face Recognition
+
+
+
+2.4.2 - Databases
+Provisions of the Privacy Act of 1974
+- Restricts the data in federal government records to what is
+"relevant and necessary" to the legal purpose for which
+the government collects it
+- requires fed agencies to publish a notice of their record
+systems in the Federal Register so that the public may
+learn about what databases exist
+- Allows people to access their records and correct
+inaccurate info
+- requires procedures to protect the security of the info in the databases
+- prohibits disclosure of info about a person w/o his or her consent
+
+The Government Accountability Office has reported
+that several 3 letter gov agencies and the White House
+did not comply with the standards for protecting
+info in databases
+
+2.4.4 National ID Systems
+The use of SSN are so widespread these days
+that they can hardly be called an effective
+means of identification
+- use of the card in so many databases makes
+them less secure
+- goes against the original purpose of the number
+
+2.4.5 The NSA and Secret Intel Gathering
+The Foreign Intel Surveillance Court is the secret
+court that issues warrants for the NSA to use to monitor
+US persons clandestinely associated w/ foreign powers
+or terrorists
+
+2.5.1 Developing Privacy Tools
+
+
+
+2.5.3 Blocking Ads
+In John Rawl's view, an action is not ethical if it has the effect
+of leaving the least advantaged people worse off
+
+
+2.5.4 Policies for Protecting Personal Data
+
+
+
+
+2.6.1 A Right to Privacy
+Until the late 19 century, there was no recognition
+of an independent right to privacy.
+
+In 1890, Samuel Warren and Louis Brandeis published an
+article called "The Right to Privacy"
+- argued that privacy is distinct from other rights
+and needs more protection
+
+Judity Jarvis Thomson held the opposite view of
+Warren and Brandeis
+
+Judge Richard Posner gives economic arguments about how
+to allocate property rights to info
+
+2.6.2 Law and Regulation
+
+2.6.3
+Free market view
+- subscribed to by people who prefer market-oriented solutions
+for privacy problems tend to empahsize:
+  - freedom of individuals to make voluntary agreements
+  - diversity of individual tastes and values
+  - flexibility of technological and market solutions
+  - response of markets to consumer preferences
+  - usefulness and importance of contracts
+  - flaws of detailed or restrictive legilation and regulatory solutions
+
+Advocates emphasize the distinction between the role
+of ethics and the role of law
+
+Views privacy as a "good"
+- desirable
+- something that can be obtained in varying amounts
+in the "economy"
+  - similar to safety, a minimum can be prescribed by law,
+but beyond that a menu of options should be allowed to be
+made available
+
+Consumer protection view
+- argue for mor stringent consent requirements, legal restrictions
+on consumer profiling, porhibitions of certain types of contracts
+or agreements to disclose data, and prohibitions
+on businesses collecting or storing certain kinds of data
+- fans of opt in policies as opt out policies and procedures
+are often obscured
+
+Fuck Mary Gardiner Jones
+
+Views privacy as a right rather than a bartering tool
+
+
+
+

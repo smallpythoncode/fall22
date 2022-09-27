@@ -1,0 +1,120 @@
+Presentation - Ch. 5.1, 5.2
+
+Cyber Security
+hacking - based
+
+if something connects to the internet
+can be hacked, just a matter of how
+difficult the task is
+- even fridges can be hacked
+
+What am hacking?
+1. 1960-70s
+joys of programming
+things were elegant and small scale
+clever circumvention and early cyber
+exploration
+
+2. hacking dark side
+late 70s to late 90s
+pranks, vandalism, money crimes
+internet wurm first released
+- shown how easily whole
+networks could be exploited
+
+I love you virus and lovebug
+spread around the world in less than
+a day
+
+black hat vs. white hat
+
+viruses
+wurms
+trojan horses
+social engineering
+phishing
+- impersonation
+- spear phishing (targeted)
+farming
+- fake IP addresses
+ransomware
+spyware
+botnet
+- can implement DDOS attacks
+backdoor
+
+Is harmless hacking harmles
+- some just do it for the thrill
+- the places being hacked don't know
+the intent of the hacker
+- can access confidential information
+- costs a great sum to respond to hacks
+
+=================================
+
+
+FREE SPEECH PRINCIPLES
+- Written for offensive and/or controversial
+speech and ideas
+- covers spoken and written words, pictures,
+art, and other forms of expression of ideas
+and opinions
+- restriction on the power of government,
+not individuals or private businesses
+
+Supreme court is the arbitrator of all of this
+principals and guidelines
+- want the internet to be as free as possible
+- advocating illegal acts is (usually) legal
+  - bomb recipes can be found easily on the
+internet
+- anonymous speech is protected
+- some restrictions are allowed on advertising
+- libel and direct, specific threats are not
+protected
+- inciting violence is illegal
+
+CONTROLLING SPEECH
+Offensive speech: what is it? What is illegal?
+- answers depend on who you are
+- most efforts to censor the Internet focus on
+pornographic and other sexually explicity material
+https://nz.news.yahoo.com/plus-size-underwear-ad-banned-in-us-for-being-indecent-31192862.html
+https://www.youtube.com/watch?v=03AV6-P5ol4
+
+Leah Cohen is a dumb bitch
+
+Our views on what's appropriate for males
+vs appropriate for females have been
+exacerbated by tech
+
+What was already illegal?
+Obscenity
+- depicts a sexual act against state law
+- depicts these acts in a patently offensive
+manner that appeals to prurient interest as
+judged by a reasonable person using
+community standards
+- lacks literary, artistic, social, political,
+or scientific value
+
+Robert Mapplethorpe was controversial
+photographer in the 80s
+
+3 religious artworks that caused a scandal
+- blog.artsper.com
+
+https://www.japanpowered.com/anime-articles/sex-in-anime-and-manga
+
+Freedom of speech guidelines
+- distinguish speech from action. Advocating
+illegal acts is (usually) illegal.
+- laws must not chill expression of legal
+speech
+- do not reduce adults to reading only what
+is fit for children
+- solve speech problems by least restrictive
+means
+
+
+
