@@ -1,0 +1,204 @@
+Presentation - 5.3
+
+Applications of Hacking
+Shopping and banking is done almost exclusively online
+- we are a number on a screen
+
+hackers utilize resumes posted online to glean intel
+of potential targets
+
+2013 Target hack - several million names, CC numbers, phone
+nums, etc were stolen
+
+Satano trojan steals passwords and usernames
+
+hacktivisim - use of hacking to promote a political cause
+DoJ site changed to Dept of Injustice
+
+Some think it is ethical but others think it is a crime
+- can this be justified if it to promote a politial cause
+
+Hacking by governments
+- military and economic espionage
+
+Can be traced to a country of origin but it is
+tough to detect whether it is by state or private actors
+
+There are not just individual hackers but state
+and international hackers who may hack for political gains
+as well as financial
+
+PRESENTATION - 5.4
+Why the digital world is so vulnerable
+
+Main thing - it is made by humans
+- they often focus on single projects
+- bound to have miscomms
+  - OS try to give you as much control as possible
+  - more control, less ability to make it secure
+  - in the 90s, could not opt out of auto-update systems
+  - devs hated it because they lost individual control over how
+their own systems operated
+
+There was not mass adoption of the Net in the early stages
+- universities and big business
+- mainly used for communication
+- little need for security because what was there to protect?
+
+Dan Farmer ran a vulnerability test
+- 2/3 of the sites he evaluated had vulnerabilities
+- companies didn't care
+
+Open SSL - heart leak vulnerability
+- open source
+- Open SSL was ran by a single guy who got paid like $2K
+to maintain the system
+
+New software is developed every day
+- it is tough to predict all ways people try to misuse the software
+
+Cars with computers are rarely updated
+
+A lot of people just don't care to update their systems
+- including cars
+
+Self-driving cars, automated drones, medical implants
+- each of these have vulnerabilities
+
+PRESENTATION - 5.5
+Security
+
+As tech progresses, there needs to be frequent updates to how
+we keep our information secure
+
+Credit Cards were very unsecure
+- just needed the number to use it
+- progressed by needing to activate it before use
+- credit card skimmers would steal the info of CCs
+  - nearly impossible to track
+- nowadays, chipped cards are encrypted
+
+Encryption
+- SHA-256
+  - nearly impossible to brute force
+  - would require many, many, many years
+- public key encryption
+
+Virus protection
+- scans newly installed software to detect for possible malware
+- quarantines potentially maliciious code
+
+What to trust?
+- software can be released with certificates
+  - not perfect --> can be forged
+
+People set up malicious sites
+- Google often filters these out from the search engine
+- It is very dangerous to follow direct links in email
+
+Captcha
+- used to check if a real person is using the application
+- using the service in the way intended
+
+Dev of new security
+- doing new research
+  - gray hats
+  - will hack for fun and share the findings for the greater good
+- DEFCON
+  - info sharing
+- selling companies their own security solutions
+
+biometrics help enhance security
+- good as a firewall, but if the wall falls, a person w/ malicious intent
+now has all of your biometrics
+
+sometimes the government wants to break into phones
+- The government wanted Apple to make a phone's info available
+
+People are the worst at making security measures because people
+are fallible and are very unlikely to fathom all of the ways
+that a person may try to circumvent security measures
+- simple mistakes may have have drastic consequences
+
+HAVE SECURE PASSWORDS!!
+- don't use the same password for several things
+
+================================================================================
+
+"The office of communications is ordered to find ways to ensure that the use of the
+Internet becomes impossible. The Ministry for the Promotion of Virtue and Prevention
+of Vice is obliged to monitor the order and punish violators.
+- excerpt from Taliban edict banning Internet use in Afghanistan (2001)
+
+He who controls the narrative holds the power
+
+internetworldstats.com
+- used to see internet users in places around the world
+
+40M population in Afgahn (2022 est.)
+1000 in 2000
+over 9M in 2022
+
+Will the Internet and related comms techs be tools for increasing political freedom,
+or will they give more power to govts to spy on, control, and restrict their people?
+
+1. https://www.youtube.com/watch?v=0cGB8dCDf3c
+- same as next
+2. https://www.youtube.com/watch?v=PVkWoKLqPOg
+- china's social credit system
+
+1. Everything you do is tracked and affects your score
+- mortgages, boarding a train
+- every move is watched
+
+200M surveillance cameras
+Sesame credit helps algorithms for this system
+350-950 range
+
+too much alcohol or video games decreases scores
+
+pressures you to become a better citizen
+- a warning
+
+Mandatory once fully rolled out
+
+counterfeit goods were a factore in the implementation of the system
+
+in one town, you start w/ a 1000 points
+
+posters are posted around town displaying what will cause a score to
+rise and fall
+
+there are town snitches who go aroud looking for good and bad behavior
+
+blacklisted people are not allowed to get hotel rooms, flights,
+trains, or even get child care
+
+apps are available to see who in your local area is blacklisted
+
+nearly half of the sec cams in the world are in China
+
+people believe that the abundance of security cams makes people
+feel safe
+- can identify age, glasses wear, sex, etc
+
+
+
+In the US, we have financial credit systems only...for now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
