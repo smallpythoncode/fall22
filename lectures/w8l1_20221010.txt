@@ -1,0 +1,319 @@
+Ch 4 - Intellectual Property
+
+A bit of history
+- 1997 No Electronic Theft Act made it a felony
+to willfully infringe copyright by reproducing
+or distributing one or more copies of
+copyrighted work with a total value of more
+than $1000 within a six-month period
+- 1998 Digital Millenium Copyright Act (DMCA)
+prohibits making, distributing, or using tools to
+circumvent tech copyright protection systems and
+included protection from some copyright lawsuits
+for Web sites where uses post material
+- 2005 congress made it a felony to record a movie
+in a movie theater
+
+These are testament to how special interest groups
+can have an influence on congress
+
+Fair Use Doctrine
+Four factors considered
+- purpose and nature of use - commercial (less
+likely) or nonprofit purposes
+- nature of copyrighted work
+- amount and significance or portion used
+- effect on potential market or value of
+the copyright work (will it reduce the sales
+of work?)
+
+No singler factor alone determines a violation
+Not all factors are given equal weight
+- varies by circumstance
+
+Fair Use almost certainly protects
+material used for strictly educational
+purposes
+- Hidden Figures movie
+  - woman who developed mathematical
+models and formulas to allow
+NASA to put a man on the moon
+  - outlined contributions of
+previously unknown black women
+- John Glenn - first US man in space
+  - first mission supported by computers
+  - he was not going to green light the
+trip until these women ran the verified
+the computers' calculations
+
+- Imitation Game movie used in class
+  - Alan Turing
+- CSCI 435 covers Turing Machines
+  - alogrithms, machines doing things
+
+These were used in class (in full)
+for nonprofit purposes
+- parts that did not relate to compute
+sci were skipped, which enhanced
+the fair use case
+- further supported by the fact
+that if it was missed in class
+and that was a condition of extra
+credit, the student would have to
+go buy it or rent it, thus giving
+money to the studio
+- there is no loss of value
+  - small class size
+  - may encourage the students to
+purchase a copy for themselves
+
+Courts look at what has been done,
+the intent behind it, and whether
+those potentially infringed have lost
+anything substantial from it
+
+Ethical arguments about copying
+- copying or distributing a song or computer
+program does not decrease the use and enjoyment
+any other person gets from his or her copy
+- copying can decrease the amount of money
+that the copyright owner earns
+
+second bullet was very true pre-technology
+the first bullet is the truer of the 2 today
+- artists willing release songs today as a
+promotion for other products, services
+  - increase concert ticket sales
+  - promote a podcast
+
+TLC - Lisa Lopez died in Puerto Rico
+- they would come up w songs
+- the recording companies would front a loan
+for the songs production
+  - engineering
+  - studio time
+  - editing
+- the company would then own the copyright
+  - the artists would get a (commonly very) small
+percentage as royalty
+- they would need to pay back the loan
+it took to the produce
+- In TLC's case, the loan repayment w/
+interest was greater than the royalties received
+  - they lost money on the deal initially
+
+Today artists take a more active part in
+song distribution
+- no longer prodcution and distribution
+of physical media, such as CDs
+- today, everything is streaming
+- artists release a few songs
+  - encourages people to buy the full album
+
+tech has changed the way copyright law is
+interpreted
+
+arguments
+- copying enables users to try out products
+benefiting the copyright owner by encouraging
+sales
+- businesses and organizations should make their
+own decisions about marketing products, not
+consumers who want free samples
+- fair use guidelines are useful ethical
+guidelines
+- there are many arguments for and against
+unauthorized copying
+
+Discussion Questions
+1. How is intellectual property like
+physical property?
+2. How is intellectual property different
+from property?
+3. Do you agree w/ the idea that someone
+can "own" intellectual property?
+
+SIGNIFICANT CASES
+Sony v Universal City Studios (1984)
+- SC decided that the makers of a device
+w/ legitimate uses should not be penalized
+because some people may use it to infringe
+on copyright
+- Sony developed the Beta Max recorder
+  - Sony's version of a VCR but better
+quality
+  - kept it a proprietary device
+    - wouldn't allow tech released so
+multiple manufacturers could have the
+tech as well
+- SC decided copying movies for later
+viewing was fair use
+- arguments against
+  - people copied the entire work
+  - movies are creative, not factual
+- Universal stated the device violated
+their copyright
+  - rather than viewing at a particular
+time on TV, it could be watched later
+according to convenience
+
+A middle school had a fundraiser and
+sold tickets for the screening of a movie
+- sued by Disney
+- school had to pay a fee to Disney
+  - $250
+  - go fund me covered the difference
+between the fee and the amount
+raised at the fundraiser
+- this is a legitimate breach
+  - not fair use
+- Disney received a lot of flak for this
+
+Arguments for fair use (sony)
+- the copy was for private, noncommercial use
+and generally was not kept after viewing
+- the movie studies could not demonstrate
+that they suffered any harm
+  - there were already paid by the
+television broadcaster
+- the studio received a substantial fee
+for broadcasting movies on TV, and the
+fee depends on having a large
+audience who view for free
+  - based on antitcpated viewership
+
+REVERSE ENGINEERING: GAME MACHINES
+- Sega Enterprises v Accolade 1992
+- Atari v Nintendo (1992)
+- Sony v Connectix (2000)
+- courts ruled taht reverse engineering does
+not violate copyright if the intention
+is to make new creative workes (video games),
+not the original work (the game systems)
+
+SHARING MUSIC: NAPSTER
+- Napster's agruments for fair use:
+- The sony decision allowed for entertainment
+use to be considered fair use
+- did not hurt industry sales becasue users
+smapled music on Napster and bought the CD
+if they liked it
+- peer-to-peer
+- bandwidth was a huge issue
+  - resulted in lower quality of the music copies
+- RIAA against
+- "personal" meant very limited use, not trading
+w/ thousands of strangers
+- songs and music are creative works and users
+were copying whole songs
+- claimed Napster severly hurt sales
+
+- court ruled sharing music via copied MP3 files
+violated copyright
+  - Napster had responsiblity to stop this violation
+
+- Napster provided the gateway, they did not
+store any of the music
+
+YouTube is not liable for copyright infringement
+but they are have a responsiblity to remove
+videos that violate
+
+RIAA arugments
+- companies are required to make an effort
+to prevent copy violations and Nap did not take
+sufficient steps
+- Nap was not a device or a new tech and RIAA
+was not seeking to ban the tech
+- court rules Nap liable because they ahd
+the right and ability to supervise the system
+including copy infring activities
+
+File sharing: MGM v Grokster
+- Grokster, Gnutella, Morpheus, Kazaa provided
+p2p file sharing services
+  - the companies did not provide a central
+service or list of songs
+  - p2p file transfer programs have legitimate uses
+- lower courts ruled that p2p does have
+legitimate uses
+- SC ruled that IC owners could sue the companies
+for encouraging copy infring
+
+"look and feel"
+- refers to features such as pull-down menus,
+windows, icons, and finger movements and specific
+ways they are used to select or initiate actions
+- reflects major creative effort by programmers
+
+iPhone
+Apple patented the corners on the phone
+- other brands could have the save curvature
+
+RESPONSES FROM THE CONTENT INDUSTRIES
+- Ideas from the software industries
+  - expiration dates w/in the software
+  - dongles
+  - copy protection that prevents copying
+  - activation or registration codes
+  - court orders to shut down Internet bulletin boards
+and Web sites
+
+- trial applications of software
+  - a month free use or x number of app openings
+  - then must purchase
+
+International Piracy
+- some countries do not recognize or protect IP
+- countries that have high piracy rates often do not have
+a significant software industry
+- many countries that have a high amount of piracy are
+exporting the pirated copies to countries w/ strict
+copyright laws
+- economic sanctions often penalize legitimate businesses,
+not those they seek to target
+
+Microsoft enlisted the FBI to protect IP
+- FBI agents would travel to these countries
+- "we will enforce our laws on you over here" says FBI
+- travelers would buy a copy of Office and install
+it on every machine in their office back home
+- MS told these people that they will not inform
+the FBI if they purchase a multi-pack licensing agreement
+  - they knew there were several installs because
+of license nums used several times
+- a sheet of paper (certificate) stating authorization
+for number of copies of stolen and agree to pay a fee
+of a low amount per desktop per desktop
+- agree to purchase the latest update when it comes out
+- contractually obligated to do the right thing
+in the future
+- protected MS on future sales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

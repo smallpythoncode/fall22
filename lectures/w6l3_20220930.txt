@@ -1,0 +1,132 @@
+Presentation - 5.6
+the computer fraud and abuse act
+penalties of hackers
+
+the act (CFAA)
+government computers, mobiles phones, financial systems
+
+protects against unauthorized access to these systems
+
+later modified by the Patriot Act
+
+unintended applications
+- no clear definition of authorization
+  - is deviation from T&C unauthorized
+
+Just making the development of malware
+illegal makes it difficult to counter these
+- study and purchase of these are often used
+for reverse engineering
+- expose and teaching of these in an academic
+would also be illegal
+
+Young persons in hacking
+- young person don't fully understand the implications
+of their actions
+- how do you decifer against those with malicious intentions
+and those that can turn their skills to more ethical
+purposes
+
+- at times, companies hire those same hackers that
+once hacked into their systems
+
+===================================
+
+Presentation - 5.7
+Who's laws will rule the web
+- legal boundaries of the internet
+
+I love you virus
+- destroyed files and passwords stolen
+- Filipino man was eventually released for
+alleged creation because there were no laws
+on that govt's book was made dev of malware illegal
+
+The French govt asked yahoo to ban display of swastikas
+on the interent
+Yahoo removed them off the French servers
+The mother-fucking French then asked Yahoo to remove swastikas
+from the entire mother-fucking Interent
+
+Libel - written defamation
+US publisher, US author
+Some people in the UK bought the book
+A Saudi man sued the US man through UK courts
+- he won
+- the creation of libel tourism
+- England has loose libel laws
+  - enhanced in 2014 to lower these instances
+
+Should the blame of libel fall on the author or on a publisher?
+Should all 200+ countries' laws be taken into account?
+
+Is there a positive ethical position in circumventing a nation's
+censorship laws? Is it okay for the West to provide outside media
+to those citizens despite North Korea's strict censorhip
+
+
+===================================
+
+Presentation - 6.3, 6.4
+Telecommuting and gigs
+telecomm - remote work or from home
+gigs - a variety of types of works where different apps, often mobile,
+pay people for specific tasks
+- Grub Hub
+
+pros
+- higher satisfaction
+- reduction of expenses
+  - reduced office space
+- productitivity has the opporutunity to be increased
+
+cons
+- you don't know your coworkers
+- people with children may find it difficult to concentrate
+- no oversight, really more efficient
+- no work/home separation
+
+Share economy
+- ride share
+- ebay
+- Air B&B
+
+- new sources of income
+- rarely used spaces are now utilized
+
+- less competent workers
+- some people don't have benefits
+
+Offshoring (global economy)
+- reduced cost
+
+Customer service are mostly overseas
+
+cons
+- corporate greed for increase profit
+- untrained service personnel
+- language barriers
+- "they took our jobs!"
+
+===================================
+
+The actual fucking lecture
+
+996 china policy
+work form 9 to 9, six days a week
+
+Apple doesn't hire factories, the have factory towns
+- huge campuses where people live and work
+- suicide nets
+
+https://www.youtube.com/watch?v=Zeeq0qaEaLw
+
+Brandenburg v Ohio
+US v Schenck
+Chaplinsky v New Hampshire
+Pickering v Board of Education
+
+Why is FREE SPEECH Important?
+
+The big debate: Should freedom of expression be absolute?
+https://www.youtube.com/watch?v=X3sX-slEWQg

@@ -1,0 +1,124 @@
+The French government once demanded Google take down
+a search result as it affected one man's ability to
+find employment. They threated G w/ a fine if they
+did not take it down. Should G have to comply?
+Does this infringe on freedom of speech? freedom
+of research?
+
+Google was in China. They eventually left because
+of all of the demands placed on G to restrict
+certain information. They were leary of entering
+China at all because they Chinese govt placed
+some mild restrictions on the the Chinese
+version of G initially. These restrictions
+eventually grew over time to the point
+where G noped out.
+
+Separate countries have separate laws on how social
+media can use and distrubute information. These laws
+are often dissimilar. Is it okay for county courts
+to fine companies whose citizens inadvently access
+these sites that the company has no intention of
+operating in? Should there even be different versions
+of websites tailored to a country's whims?
+
+Selling surveillance tools
+- repressive govts intercept citizens' comms and
+filter Internet content
+- Companies in Western democracies sell them the
+sophisticated tools to do so
+
+Some companies who sell these tools have elected
+to not sell these tools to repressive govts
+who will cross ethical boundaries
+
+What is Clear View?
+
+Should surveil software sell to Iran who may
+use the system in a way that may lead to
+people's execution?
+
+Shutting down comms in free countries
+- public safety
+  - "public safety"
+- In the US, the SC would probably declare unconstitutional
+a law that uthorized a govt agency to order a private
+comms service to shut down
+
+There have been lawsuits against gun manufacturers
+stating that their products have caused undo harm
+- Should biometric locks be enforced in gun sales?
+
+A similar argument is being pushed against tech/socmed
+companies
+- Should these companies implement procedures and
+programs that protect persons from extreme emotional
+harm?
+- Reputational harm?
+- Financial harm?
+- Is it the company's responsibility to control
+how people use the internet?
+
+Net neutrality
+- Refers to a variety of proposals for restrictions on how
+telephone and cable companies intereact w/ their
+broadband customers and set fees for services
+
+https://www.ncsl.org/research/telecommunications-and-information-technology/net-neutrality-2022-legislation.aspx
+https://www.broadbandsearch.net/blog/net-neutrality
+https://www.washingtonpost.com/business/technology/netflix-strikes-deal-to-pay-comcast-to-ensure-online-videos-are-streamed-smoothly/2014/02/23/0e498d18-9cc2-11e3-975d-107dfef7b688_story.html
+
+The net neutrality issue came to prominence due to Blockbuster
+- Blockbuster's business model was to rent out movies for relatively cheaply
+but would charge high late return fees
+- Some dude got pissed at these fees and started a competing company, Netflix
+  - mailed out DVDs w/ no late fees
+- Netflix started streaming once the tech was available
+- Streaming companies are making shit tons of money off
+the backs of ISPs who maintain the fiber
+  - Brought about the net neutrality question:
+Should the ISPs get a cut?
+  - ATT, Comcast, etc. would structure how the internet
+is used using a tier system
+- Net n. is the principle that no user should have
+a better transmission rate (an advantage) on the internet
+than any other user
+
+Three principles
+- no blocking
+- no throttling
+- no pay-for-preference
+
+ISPs oppose net neutrality
+- they say that the 3 principles would never happen
+  - they point that regulation is already in place to prevent these
+  - they say they are not going to slow anyone down from the base
+rate, they are just going to enhance the higher paying customers'
+access
+
+Net N. became official policy under Obama admin, 2016
+- reversed under Trump, 2017
+  - courts upheld this decision in 2019 meaning
+net n. is not currently and FCC policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

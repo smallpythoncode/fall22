@@ -1,0 +1,157 @@
+Chapter 4 - Intellectual Property
+
+Principles, Laws, and Cases
+Responses to Copyright Infringemet
+Search Engines and Online Libraries
+Free Software
+Patents for Inventions in Software
+
+What is Intellectual Property?
+- The intangible creative work, not its particular physical form
+  - The DVD rental is not protected, it is the movie stored on the DVD
+- Value of intelligence and artistic work comes from creativity, ideas, research,
+skills, labor, non-material efforts and attributes the creator provides
+
+1. https://www.youtube.com/watch?v=UqZJPuyK9VY
+- US
+2. https://www.youtube.com/watch?v=EQsZf2G4Sdc
+- UK
+
+1. Designs, processes, songs, logos, new varieties of plants
+IP - something thought of or created
+determines how it's distributed, makes, who can sell and profit from it
+
+Steps to legal protection
+
+applying for Patents
+Applying for copyright
+using a trademark
+trade secrets
+
+technology transfer (T2)
+
+2. Legal way of protecting IP
+- drives innovation while disallowing it from being stolen or illegally used
+
+4 flavors (rights)
+copyright
+trademarks
+patents
+design rights
+
+trademarks - sign of origin of product or service
+- colors and songs can be trademarked
+- anything that can be reprsented graphically
+  - songs are TM by their score (the notes on paper)
+- distinctive
+- not descriptive
+
+copyright - automatic w/o registaration
+- any original work provided there is some skill or judgement involved
+- books, pictures, films, dissertations
+- computer programs and databases
+- protects the expression of an idea, not the idea itself
+- protect for 70 years after the death of the person who created them
+  - in UK
+
+Patents
+- powerful, valuable, and complex
+- protect inventions that are new, inventive, and have an industrial application
+- protection that lasts only 20 years (in UK)
+- don't tell anyone about your new idea...it will be stolen
+- get an attorney
+
+Design Rights
+- protect what things look like
+  - shape and appearance
+- automatic
+- protect for 3 years if unregistered
+- protect for 25 years otherwise
+
+Harley Davidson wanted to trademark the sound of their bike
+- denied as it was not intentional when designing the bike
+
+Paris Hilton wanted to trademark the phrase "that's hot"
+
+UND has a departement that will help with patents on the student's behalf
+- covers legal costs
+- UND student wrote code to allow drones to fly autonomously in hazardous environment
+  - auto because no wireless connectivity
+
+U.S. Copyright Law (Title 17 of U.S. code) gives copyright holder following exclusive rights
+- to make copies
+- to produce derivative works, such as translations into other languages or movies based on books
+- to distribute copies
+- to perform the work in public (e.g., music, plays, lectures)
+- to display the work in public (e.g., artwork, movies, computer games, video on a web site)
+- once something is created, it's copyrighted --> automatic
+
+Challenges of New Technology
+- digital tech and the Internet make copyright infringement easier and cheaper
+- new compression tech maky copying large files (graphics, video, audio) feasible
+- search engines make finding material easier
+- peer-to-peer tech makes transferring and sharing files easier
+
+- DVDs were so large that it was once infeasible to copy them on PCs
+  - not the case today
+  - virutally no limit on storage depending on file size
+  - bandwidth has improved, nearly no limit on ability to transfer data, but
+may take some time
+
+- broadband connections make transferring files easier and enable streaming of video
+- miniturization of cameras and other equipment enable audience members to record and
+transmit events
+- scanner allow us to change the media of copyrighted work, converting printed tex,
+photos, and artwork to electronic form
+- new tools allow us to modify graphics, video, and audio files to make derivative works
+
+What does it mean to solve the problems of tech's impact on IP rights?
+We should recognize that "the problem" looks different from different perspectives
+
+3. https://www.youtube.com/watch?v=iB0CXnir5cl
+4. https://www.youtube.com/watch?v=hlylnZ7lCEM
+
+3. photocopying money
+- some currencies have a constellation that prevent a photoprinters from copying it
+- US 1 dollar not protected
+- british 5 pound stirling PROTECTED
+- 10 Polish Zloty not protected
+- 5 australian dollar not protected
+  - the constellation is present
+
+2. Counterfeit money creator
+
+$20 us bill does not have printer counterfeit protection
+
+A bit of history
+- 1790 first copyright law passed
+- 1909 Copyright Act defined an unauthorized copy as a form
+that could be seen and read visually
+- 1976 and 1980 copyright law revised to include software
+and databases that exhibit "authorship" (original ideas of
+expression of ideas), included the "Fair Use Doctrine"
+- 1982 high-volume of copying became a felony
+- 1992 making multiple copies for commmercial advantage and
+private gain became a felony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
