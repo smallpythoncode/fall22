@@ -1,0 +1,93 @@
+chapter 5
+
+small business insecurity
+
+fizio mechanical
+- led to the target security breach
+- was a sub contractor for target air cond system
+- had to log into target's contracting system
+- some dumbass at fizio opened an email w/ a virus
+- now 40M companies lost their credit card sec
+
+Now, large scare companies are required to
+pay for large client side systems
+- these are more secure
+
+cheap security
+- small companies
+- you get what you pay for
+
+the cost of dev for stuxnet
+was millions of manhours
+and millions of dollars
+
+identity theft
+- hacker hacks into a system
+- sees customer info on their system
+  - prior purchases, location, credit card applications
+
+18-29
+- according to the authors of the slides
+- these are the most vulnerable group for identity theft
+- more naive perhaps, definitely use it more
+- this may have been accurate years ago
+  - these days, they are more savvy than the boomers
+
+people who steal credit card numbers
+often start w/ very small purchases
+- this is to trick the banks
+- frequent purchases in an area for $5 or less
+creates a pattern
+- less likely to trip big purchases later
+  - bank thinks the owner is on vacation again
+
+nigerian prince email
+- people actually fell for it
+- they sent of their bank information
+- according to 2019 article
+  - rakes in over $700K a year
+  - profits off of people's greed
+
+never submit personal information on
+a resume
+- job hunting sites are public
+- street addresses are not necessary
+  - just use city, state
+- create a separate email for job hunting
+purposes
+- these sites are not very secure
+- if you use your general email,
+all of a sudden malicious users
+have a key to the puzzle of your identity
+- no driver's license number
+- even think about using a PO box
+
+ways of countering identity theft
+- und requires double authentication
+  - outlook requires two factor
+- und used to require password update
+every 6 months
+
+credit card monitoring
+- trans union
+- equifax
+- experian
+
+start at 21:28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

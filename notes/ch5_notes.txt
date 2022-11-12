@@ -1,0 +1,689 @@
+ERAS OF HACKING
+1. 60s, 70s - hacking was a positive term
+2. late 70s to late 90s, hacking took on more negative
+meanins
+3. late 90s to today - explosion due to advancing tech
+- access to the Web, e-commerce, number of devices connected
+
+Era 1 - The joy of programming
+- a "hacker" was a creative programmer who wrote
+very elegant or clever programs
+- unauthorized access happend, but typically was not
+the goal
+- early hackers sought knowledge and intellectual
+challenges
+- usually done on a single computer or in a small network
+
+From the New Hacker's Dictionary
+- a hacker is a person who enjoys exploring the details
+of programmable systems and how to stretch their
+capes
+- one who programs enthusiastically (even obsessively)
+
+hacking for Jude Milhon
+- clever circumvention of imposed limits
+
+Era 2 - the rise of hacking's dark side
+- dawn of viruses
+- pranks
+- digital vandalism
+- harassment
+- theft
+
+Rose to the common meaning of today
+- breaking into computer systems for which the hacker
+does not have authorized access
+
+Read book - The Cuckoo's Egg
+
+The 1988 Morris Worm led to the creation of the 
+Computer Emergency Response Team Coordination Center
+- affected thousands of computers, most of the internet
+at that time
+- created by grad student at Cornell University
+
+Era 3 - Hacking as a destructive and criminal tool
+- critical infrastructure is connected to the internet
+  - prime targets for hackers
+
+Interesting viruses
+- Melissa
+- Love Bug / ILOVEYOU
+  - estimated $10M in damage
+
+Remember George Hotz?
+
+5.2.2 HACKER TOOLS
+
+Virus - software that attaches or adds itself to
+other software. Small portion of program
+that can replicate itself and perform other functions.
+Often spread when someone runs an infected program
+or opensan infected attachment.
+
+Worm - Similar to a virus
+- doesn't need to attache itself to another program
+- designed to exploit specific system flaws
+- scans nearby systems for similar flaws and spreads
+to them
+- Conficker worm shipped with police body cams
+in 2015
+
+Trojan horse - appears benign but carries a malicious
+componenet
+- runs the intended func w/ malicious componenets
+in the background
+
+social engineering - the manipulation fo people into
+releasing info or performing a task that violates
+security protocols
+  - impersonation as customer or tech support
+
+phishing
+- smishming via text (SMS)
+- sending millions of messages fishing for
+info to use to impersonate someone
+and steal money or goods
+- spear phishing atims at high-level corporate or gov
+employees
+
+pharming - luring people to fake websites where
+thieves collect personal data
+
+Ransomware
+
+Spyware
+- Cassidy Wolf
+
+Botnet - gropu fo computers or other devices on the
+web that have a virus or piece of malware that
+comms w/ a centrol host or server controlled by
+a hacker
+- coordinated army of compromised devices
+  - Sean Gallagher
+- server can tell bots/zombies to send spam, malware,
+initiate distributed denial of service attacks
+- Conficker, Zeus, Simda
+
+DoS or DDoS - attack in which a botnet overwhelms websites,
+mail servers, or other locations w/ so many requests
+for service that normal users can't access the sites
+or service
+- can crash sites/services
+- Mirai, 2016
+
+Backdoor - software that allows access to a computer
+system or device at a future time by bypassing
+the normal layers of security
+- can be written into the code so system can be accessed
+at a later date
+
+development of malware requires skill.
+implementation doesn't. malware can be acquired
+on the net for free or for very low cost.
+
+5.2.3. Is "Harmless" Hacking Harmless?
+Some claim if no data is copied and no files
+are changed then the hack is harmless
+
+Responding to nonmalicious intrusions requires
+the same resources as responding to potentially
+malicious ones
+
+Even if nothing is changed or copied, sensitive personal
+data may be exposed
+
+Another danger of "harmless" hacking is that something
+may have been changed by accident
+
+5.3 SOME SPECIFIC APPLICATIONS OF HACKING
+5.3.1 Identify Theft
+
+Our identity has become a series of numbers
+- phone, SSN, accounts, etc
+
+cybersecurity breaches is not just a direct
+cost to the organizations breached
+- indirect costs to consumers via higher
+prices to pay for new infrastructure, hiring
+of cybersec personnel, investigations
+- individual victims can have their
+credit scores affected
+- identity and financial information stolen
+
+Job-hunting sites are a treasure trove
+for identity thieves
+- work histories, birth dates, other details
+of a person's life
+- can post fake jobs and ask for more info
+stating that the info is part of a background
+check
+
+5.3.2 Target breach, 2013
+40M credit card nums, 70M names, address, and phone nums
+- hackers sent phishing email to employee at
+Fazio Mechanical
+- employee clicked on attachment/link and
+inadvertently installed Citadel Trojan
+  - steals usernames and passwords
+- Fazio employees connected to at least
+2 different internal Target apps for electronic
+billand and contract submission
+
+cyber investigators discovered that
+Target servers used default or weak passwords
+
+BlackPOS captured cardholder data in the
+short window during the transaction
+when it was unencrypted
+- hackers then set up their own server to
+retrieve the data and send it off
+
+- estimated take from this hack
+was $53.7M
+- Target saw 46% drop in profits for the quarter
+compared to the previous year
+- banks and credit unions spent and estimated
+$200M to reissue credit cards for about half
+of the compromised accounts
+
+5.3.3 Hacktivism, or Political Hacking
+- use of hacking to promote a political cause
+
+- those who agree w/ the movement tend to view
+it as activism
+- those who oppose view it as crime, maybe
+even terrorism
+
+- are these legitimate protests? or is it
+some kid on his laptop showing off?
+
+- to activists, it's sticking it to the man
+and defensible
+- to customers and owners, it's vandalism,
+trespassing, and theft
+
+It's difficult to develop sound ethical basis
+if one is planted on one end of the political
+spectrum and views the act through
+that lens
+
+- is it civil disobedience?
+- is it more justified than criminal hacking?
+
+protesting outside of an abortion clinic
+is much different than burning it down
+- peaceful resistance vs trespassing and vandalism
+
+Is it freedom of speech?
+- FA doesn't protect you hanging signs on someone
+else's fence
+- have the freedom to speak but not the right
+to compel others to listen
+
+5.3.4 Hacking by Governments
+- for economic and military espionage and to
+disable current or future enemies
+
+The Pentagon announced that the US will treat some
+cyberattacks as acts of war and may respond w/
+military force
+
+5.4 WHY IS THE DIGITAL WORLD SO VULNERABLE?
+factors contributing to vulnerabilities and weaknesses
+- inherent complexity of computer systems
+- dev history of the Internet and the Web
+- software and comms systems that govern
+industrial and comms infrastructure
+- speed at which new apps develop
+- economic, business, and political factors
+- human nature
+
+Every digital device or system almost certainly has
+flaws or weaknesses that can be exploited
+
+5.4.1 Vulnerability of Operating Systems and the Internet
+- Some OS companies push OS updates w/out the user's consent
+  - they value security over the customers' prefences
+  - some customers object; "not what I paid for"
+- IT companies protested because updates were not
+compatible with certain applications
+- most software companies now make updates optional for
+users
+  - this leads to a patchwork of updates for computers,
+sometimes on the same network
+
+Because of the dynamic environment of updates vs
+security threats, a system that was at one point
+secure may become vulnerable later.
+
+the early Internet was not concerned w/ passwords
+- they did not conceive that someone would intentionally
+try to destroy the system
+- use was based on trust
+
+Dan Farmer ran a program to probe the booming
+90s internet to detect sites w/ potential
+security concerns
+- of the 1700 examined, 2/3 had weaknesses
+- only 4 apparently noticed that it was being probed
+- banks, newspapers, govt agencies
+
+many small businesses do not have a dedicated IT dept
+- they may not even be able to afford a single person
+- training is often limited
+- little experience or technical knowledge of such matters
+
+small-time websites are prime targets for hackers
+- the low security makes them easy to infiltrate
+- can be used to mimic bank sites
+- can host phishing scams and distribute malicious
+code
+- can act as a C2 server for a botnet
+
+The heartbleed bug
+OpenSSL - library of computer code the programmers
+use to send and receive encrypted messages
+- estimated 2/3 of internet relied on this
+for security
+- 2014 a catastrophic bug found taht made it possible
+to see the information unencrypted
+- present in versions of OpenSSL since 2012
+  - potentially 2 years of exposure
+
+- nonprofit managed OpenSSL and received $2K in
+donations annually
+- bug was simple programming error of part-time contributor
+- Linux Foundation evenutally upped their donations
+to the organization
+
+5.4.2 Human Nature, Markets, and Vulnerability of the Internet
+of Things
+
+The demands of the market often lead to developers
+and producers of new tech pushing product out the door
+w/o mitigating sec concerns
+- eventually learned form lessons
+  - biometric locks
+  - cables for locking laptops
+  - better training for employees who operate
+hand helds
+
+5.5 SECURITY
+
+5.5.1 Tools to Help Protect the Digital World
+Retail merchants consider some loss as just a part
+of doing business
+
+smart-card chip provides better authentication
+of credit cards
+- thieves cannot clone the chip info to fake
+cards as they could have w/ magnetic strips
+
+PayPal provides security and peach of mind
+by being a third party
+- can buy from strangers online w/out
+having to give them a credit card number
+
+near-field communication (NFC) allows people
+to pay w/ their phones by passing it near
+a terminal
+- creates an encrypted transaction record
+that is unique for that purchase
+
+ENCRYPTION
+core Internet comms protocol TCP/IP
+does not encrypt data because of large
+amounts of computing power
+
+because of the cost to develop, implement,
+and operate, encryption services on the internet
+sometimes cut corners
+
+encryption is also used for stored data and documents
+
+Anti-malware software and trusted applications
+
+2 techniques for searching for malware
+1. anti-malware looks at or scans all the files
+on the device input into the computer
+- can set software to periodically scan files
+on computer
+- searches through code in the files looking for
+signatures
+  - sequences of chars that match those
+known from viruses stored in a database
+- notifies you if one is found and places it
+in quarantine
+- can simply deleting the quarantine remove
+the virus?
+
+Occasionally a piece of malware can make
+it pas the scan undetected
+2. monitor a computer system for
+"virus-like" activities
+- modding parts of memory outside the
+area a program is permitted to
+- launching or modding multiple
+programs simultaneously
+
+- notifies the user and shuts down the
+program is initiating the activites
+
+Most OS manufacturers grant option
+to users to only allow software
+from a certified dev
+- digital certificate
+
+Authenticating websites pg 300
+- the images some websites use
+as authentication mechs are to indicate
+to the user the that the site is
+legit
+
+Authenitcating users pg 300
+
+Biometrics pg 301
+- finger prints
+- voice prints
+- hand geometry
+- eye (iris or retina) patterns
+- DNA
+
+Multifactor authentication 303
+3 cats
+1. something you know - password, PIN, passphrase
+2. something you are - voiceprint, fingerprint, eye scan
+3. something you have - debit/credit card, smartphone, fob
+- for best security, have at least 2 cats each from
+different categories
+
+5.5.2 People Who Can Help Protect the Digital World
+pg 304
+
+cybersecurity specialists
+can belong to:
+- IT department of org
+- independent sec co
+- academia
+- govt
+
+activites lie in 3 broad areas:
+1. protecting systems and networks
+2. testing the security of existing systems
+and networks
+3. investigating sec breaches
+
+their 3 goals
+- include preventing unauthorized access
+
+1. confidentiality
+- ensuring data that should be private remains private
+2. integrity
+- ensuring data are not changed w/o authorization and are
+consistent over time and in sync w/ the real word
+3. availability
+- ensuring the system, services, and data are accessible
+when needed
+
+a balancing act
+- a system that noone can access is very secure,
+but it is then not very useful
+
+frequently, investigators can ID hackers
+because they brag about their
+exploits
+
+Decision makers in businesses, orgs, and govt pg 305
+
+Software designers, programmers, and system admins pg 306
+
+Computer Emergency Response Team (CERT) dev'd
+coding standards for secure software development
+that schools should teach software devs from
+their first intro to programming
+
+system admins have a professional, ethical,
+and often legal obligation
+to take reasonable sec measures to protect
+their systems.
+they must anticiapte risks, prepare for them,
+and stay up to date about new risks
+and new sec measures.
+
+Users pg 306
+
+password practices
+1. choose strong passwords
+2. change passwords periodically
+3. do not use the same
+password for multiple purposes
+
+# pg 307
+"some businesses have hundreds of thousands..."s
+
+A good cybersecurity program educats employees about
+cyber risks and the role each playes
+in the org's sec
+- actually provides training
+
+Physical sec
+- unlikely issue given that people have to
+physically be somewhere to steal digital
+data, but it's very real
+
+5.5.3 HACKING TO IMPROVE SECURITY
+
+Penetration testing
+pen testing firms are typically held to NDAs
+- to disclose to anyone besides the
+org's sec team is a grave breach of professional
+ethics
+
+pen testing is a valuable part of training
+for cyber security professionals
+- to defeat a hacker, you need to think like
+one
+
+Responsible disclosure pg 309
+
+subculture of hackers who, w/o permission,
+probe computer systems as an intellectual
+exercise to find sec flaws
+- gray hats
+- key ethical challenge: how do they disclose
+vulnerabilities to warn potential victims
+w/ou informing malicious hackers?
+
+it is responsible practice to disclose the flaw
+privately to the org so that it has time
+to prepare patches before a bad guy discovers
+it
+
+Dan Kaminsky discovered a major flaw in the domain
+name server system (domain to IP address system)
+- worked in secret w/ several companies
+- told them he would release the information
+to the public in 30 days
+- this lit a fire under everyone's asses to
+get a patch implemented
+
+Google does something similar w/ websites
+w/ clear sec flaws
+- gives 90 days
+
+Is this time frame good enough?
+- will rushing a patch create more issues?
+
+Major tech companies offer bounties
+to people for privately discovering vulnerabilites
+in their software
+
+Some business and govt agencies have so
+much confidence in their systems that
+they refuse to believe anyone can
+break in
+
+Nearly all hacking (even for good intent)
+is condsidered illegal these days
+
+5.5.4 BACKDOORS FOR LAW ENFORCEMENT
+
+FBI and other agencies pushed for backdoors into
+comms equipment so they coud access communications
+Congress passed the Comms Assistance for Law
+Enforcement Act (CALEA) in 1994
+- the law requires that the design of telecomms
+equipment ensures that gov can intercept
+telephone calls (w/ a court order or other
+authorization)
+
+Any backdoor increases vulnerability
+- hackers, criminals, foreign govt's
+
+- trying to implement similar backdoors
+for decryption
+- congress did not pass
+
+The backdoor controversy revived pg 312
+companies began dev encryption so strong
+and privacy based that even the companies
+themselves couldn't access the data
+
+Apple refused to cooperate w/ FBI
+on 2015 San Bernadino investigation
+- data erasure after 10 failed attempts
+to unlock
+
+5.6 THE LAW
+5.6.1 THE COMPUTER FRAUD AND ABUSE ACT
+- passed in th 80s
+- covers govt computers, finacial systems,
+and computers used in interstate and
+international commerce or comms
+  - i.e., all of the internet
+- illegal to access such a device w/o
+authorization or to exceed
+on'es authorizaation, and read or copy
+info
+
+USA PATRIOT Act amended the CFAA
+- increased penalties for a first
+offense and for hacking
+computers used by the criminal justice
+system or the military
+- permits the gov to monitor online
+activity of suspected hackers w/o
+a court order
+- definition of hacking under
+pat act is broad
+
+unintended applications pg 314
+
+unclear definitions for "without
+authorization" and "exceeding authorization"
+
+Lori Drew - MySpace cunt
+
+Aaron Swartz - downloaded a shit ton
+of papers from MIT
+- he justified it by saying many
+of them were develped using government grants
+- the charges brought against him
+eventually led him to suicide
+
+5.6.2 Criminalize Virus Writing and Hacker
+Tools? pg 316
+
+5.6.3 Penalties for Young Hackers pg 316
+
+Richard Feynman found or guessed the codes
+to the safes containing classified documents
+w/ data on the development of the 
+atomic bomb
+- he left notes inside sayin that the
+security wasn't as good as they thought
+
+Parents of young hackers often have
+no idea what their sons are doing
+at the keyboard
+
+5.7 Whose Laws Rule the Web?
+pg 319
+5.7.1 A Crime in One Country but Not Another
+
+the Filipino man who created the ILOVEYOU
+virus remained a free man because there was no
+law on the books in the Philippines at the
+time for what he did
+
+subject areas where national laws differ
+- content control/censorship
+- intellectual property
+- gambling
+- hacking/viruses
+- libel
+- privacy
+- commerce
+- spam
+
+5.7.2 Libel and Freedom of Speech
+Differences amoung free countries pg 3.2.2
+
+libel - written defamation
+slander - verbal defamation
+
+In the US, if the content is true,
+it is not considered libel
+
+English and Austrailian laws and tradition
+places more emphasis on protectinggit push origin master
+reputation
+- michael jackson won a libel suit
+against a british newspaper who commented
+on this plastic surgery
+
+In the US, the burden of proof is on
+the person suing
+- he must prove the published info
+is false AND that the publisher knew
+it was false or acted recklessly
+
+libel tourism in England is an
+effect of the relative ease w/
+which people can win suits there
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

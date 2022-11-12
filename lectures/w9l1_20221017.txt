@@ -1,0 +1,243 @@
+Ch 5 - Crime & Security
+- Hacking
+- Identity Theft and Credit Card Fraud
+- Whose laws rule the web
+
+HACKING
+- intentional, unauthorized access to computer systems
+- the term used to have a positive connotation
+  - a "hacker" was a person w/ exceptional programming skill
+- there was a time where C was the language that many
+students were introduced to
+- the term has changed over time
+- Phase 1: The joy of programming
+  - early 1960s to 70s
+  - it was a positive term
+  - a "hacker" was a creative programmer who wrote
+elegant or clever code
+  - a "hack" was an especially clever piece of code
+
+- Who is Dennis Ritchie?
+  - died w/in a week of Steve Jobs
+- There would be no Steve Jobs w/o Ritchie
+- He invented C
+  - written as compiling as a primary goal
+  - compiler program for OS
+  - C can address memory location directly
+
+- In C, it is possible to write working programs
+w/ no variables
+  - all addresses in memory
+  - this elegant technique can be considered "hacking"
+in the old sense of the word
+
+Phase 2: 70s to mid 90s
+- hacking took on negative connotations
+- breaking into computers for which the hacker does not
+have authorized access
+  - normally not w/ the intent of doing any harm
+  - a personal challenge
+- still primarily individuals
+- includes the spreading of computer worms and viruses
+and "phone phreaking"
+- companies began using hackers to analyize and improve
+security
+
+- George Dubya era
+- in NATO, if one nation is attacked, all are attacked
+- NATO was asked to respond after 9/11
+- an attempt to go into Iraq led many NATO countries
+to question if that was related to the 9/11 attacks
+- A sense that the US had overstepped its bounds
+- this was a factor that lead to the rise of Anonymous
+  - hacked into white house website and changed its apperance
+  - a political statement
+- Anon issued DDOS attacks on the white house
+
+- a website bot was created to search for George Dubya
+and then go to website for the definition of "abject failure"
+- This traffic pattern influenced Goog's algo to where GW
+would be associated with "abject failure" in the searches
+
+- chlorthalidone: his prescription
+
+Phase 3: The growth of the web and mobile devices
+- beginning mid 90s
+- growth of the web changed hacking; viruses and worms could
+be spread rapidly
+- political hacking (hacktivism) surfaced
+- denial-of-service (DoS) attacks used to shut down websites
+  - can be mitigated with tools that can detect potentially harmful
+clients and deny the requests from them
+- large scale theft of personal and financial info
+  - can be used for identity theft or digital robbery
+
+Is "harmless hacking" really harmless?
+- responding to non-malicious or prank hacking uses resources
+- hackers could accidentally do significant damage
+- almost all hacking is a form of trespass
+
+- the system managers don't know the intent of the hack
+  - they don't know if the intent is "harmless"
+- the same resources must be used to respond to harmless
+attacks as those w/ malicious intent
+- it advertises the fact that the system has a vulnerability
+  - more nefarious uses can then look for was to exploit it
+- you have committed a wrong
+  - may not be any explicit harm
+  - but it makes blurry the line of where
+the line is between right and wrong
+  - who is to decide what is harmless
+
+There was a UND student who was utilizing a command-line
+predecessor to Campus Connection. He mistyped a command
+and was given access to an admin-only area. He noticed that
+there was a folder for passwords. He notified the admins
+notifying them of the vulnerability. The next day
+campus police were at his door. 
+
+Why? This was considered trespass. Even though he reported
+the vulnerability, he also admitted that he let himself
+into an area he was not supposed to be.
+
+What to do? If a vulnerability is identified, don't go snooping.
+Identify the point of vulnerability and notify admins of that.
+Any access beyond that point is considered trespass.
+
+For government facilities, you have a right to be there.
+If there is a door open, you have the right to walk through it
+given that there is no postage saying that only authorized personnel
+are allowed. This applies to government facilities.
+
+The analogy of physical trespass only goes so far when
+comparing that to digital trespass.
+
+Hacktivism, or political hacking
+- use of hacking to promote a political cause
+- disagreement about whether it is a form of civil
+disobedience and how (whether) it should be punished
+- some use the apperance of hacktivism to hide
+other critical activities
+- How do you determine whether something is
+hacktivism or simple vandalism?
+- when the courts look at a case of hacking into
+a system, they in terms of possible punishment
+or determination of guilt, they look at
+if the intent is vandalism or hacktivism
+- if someone in the US were to hack into
+an Iranian government facility and discover
+information of Iranian government attrocities,
+how would a court look at that?
+- would it be differnt if a US person
+hacked into a US govt system?
+
+https://www.politico.com/story/2013/04/ap-twitter-hacked-false-white-house-explosions-report-090502
+
+HACKERS AS SECURITY RESEARCHERS
+- "white hat hackers" use their skills to demonstrate
+system vulnerabilities and improve securities
+- the Confessions of Marcus Hutchins, the Hacker Who Saved the Internet
+  - from Wired
+  - https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
+
+- white hats will often accept bouties from companies
+who will identify and close vulnerabilities in systems
+- black hats use their skills for what is
+generally considered evil purposes
+- grey hats don't have an allegiance to good or evil
+
+- from wired, at 22 he single-handedly put a stop
+to the worst cyberattack the world has ever seen
+- then he was arrested by the FBI
+
+Hacking as Foreign Policy
+- hacking by governments has increased
+- Pentagon has announced it would consider
+and treat some cyber attacks as acts of war,
+and the US might respond with mil force
+- How can we make critical systems safer from attacks?
+- establishing programs to test vulnerabilites
+(presumably via white hats) before foreign
+adversaries consider doing it first
+- the Catch Me If You Can guy
+introduced the idea of microprint "lines"
+on checks
+  - microprint of a text
+
+Stuxnet
+- An extremely sophisticated worm
+- targets a particular type of control system
+- the first publically-known major attempt of
+a government hacking effort
+  - spearheaded by the US
+  - coordinated with Israel
+- beginning in 2008, damaged equipment in a
+uranium enrichment plant in Iran
+- Zero Days
+https://www.youtube.com/watch?v=SoRoMykmibE
+- this hack was so sophisticated and so
+costly that investigators came to the conclusion
+that only a state would have the resources
+to be able to carry it out
+- black hats who discover zero days
+can make money by selling the intel
+on the dark web
+  - hundreds of thousands of dollars
+- lone wolves can typically only afford
+to purchase 1 zero day
+  - again, very costly
+- Stuxnet (from what is known) targeted
+6 zero days
+  - costly, indeed
+  - possibly over a million dollars
+- because of they type of exploits stuxnet
+targeted, in order to get the virus to run,
+the targeted system had to be convinced
+that it was a legitimate piece of code
+  - code is legitimized by a certificate
+  - OS devs use these to verify third-party code
+  - the system that generates certificates
+are not connected to the internet
+    - obviously, this would be the juiciest of targets
+  - private sector "classified"
+- in order for stux to work, one of the stand-alone
+systems had to be physically access
+  - could only have been a government agency
+  - eventually revealed that it was collab effort
+of NSA, CIA, and Israeli Masad (verify)
+- 2010, approx.
+- Stuxnet is dormant on millions of computers today
+  - can only be detected when it was active on a
+system
+
+a zero-day vulnerability is a weakness
+in software that has been discovered
+by a hacker but is still unknown to the
+developer
+called "zero-day" because once a hacker
+detects the vul, the software vendor
+essentially has "zero time" to patch
+it before it is exploited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

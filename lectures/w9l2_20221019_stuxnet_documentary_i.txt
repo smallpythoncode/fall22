@@ -1,0 +1,448 @@
+HACKING
+Hackers as Security Researchers
+- "white hat hackers" use their skills to demonstrate
+system vulnerabilities and improve security
+- the Confessions of Marcus Hutchins, the hacker
+who saved the internet from wired
+  - https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
+
+Hacking as foreign policy
+- hacking by govts has increased
+- Pentagon has announced it would consider and treat some
+cyber attacks as acts of war, and the US might respond
+w/ military force
+- How can we make critical systems safer from attacks?
+
+STUXNET
+- an extremely sophisticated worm
+- targets a particular type of control system
+- beginning in 2008, damaged equipment in a 
+uranium enrichment plant in Iran
+- Zero days
+  - https://www.youtube.com/watch?v=SoRoMykmibE
+
+THE CONTENTS OF THIS EXAM WILL BE ON THE FINAL!!!!
+
+Different nation states choose to play by different rules
+
+Nov 29, 2010 in Tehran, Iran
+- 2 top scientists were targeted by hit squads
+- major strategic sabotage
+- allgedly from US and Israel
+- Clinton (sec of state) publically denied any involvement
+
+MOSSAD
+- a narrator in the story
+- senior operative
+- israeli intelligence
+
+Alex Gibney
+- the interviewer
+- AGIB
+
+When AGIB asked MOSSAD is the assassinations
+in Iran were related to the Stuxnet
+computer attacks, MOSSAD insisted on moving
+onto the next question
+
+Iran's infrastructure was being targeted by
+a powerful worm (spyware)
+
+One news outlet stated that (at the time)
+it was identified as 30000 instances
+
+Security experts assessed that it required
+the resources of a nation state
+
+Stuxnet is part of a classified program officially
+- noone wants to talk about it
+
+"I don't know, and even if we did, we wouldn't talk
+about it anyway"
+- Michael Hayden, former NSA director
+
+countries are comfortable discussing what they did
+because they are unsure where they want the system to go
+
+whoever was behind stux hasn't admitted to it
+
+First surface in Belarus
+
+man whose clients in Iran began to panic over an epidemic
+of computer shutdowns
+- Sergey Ulasen
+  - antivirus expert, Belarus
+- other viruses didn't have this kind of zero day
+- it was the first time in his practice
+- led him to the decision to notify security companies asap
+of the danger
+
+Wilders Security Forums
+
+17 jun 2010 identification
+- affects os in unusual way
+
+Symantec Research Labs
+- California
+
+Eric Chien
+works for symantec
+
+Kaspersky, Eugene
+collect millions of unique attacks every month
+in the old days, it may only be dozens a month
+
+traditional cyber criminals
+- in it for the money
+hactivists
+- fun or politics
+national states
+- high-quality intel of sabotage activity
+
+sec companies share binary samples and info
+- samples are analyzed looking for strings or variable names
+- combo of 2 variables led to name of stuxnet
+
+Hamburg, Germany
+
+Control Systems Security consultant
+- Ralph Langner
+
+went beyond our worst nightmares
+the more bizarre the story got the more research was done
+
+There was just bad things all over the code
+- a hundred questions straight away
+
+detective work
+- who did it
+- what is their motivation?
+- new puzzles are difficult to put down
+- work until 4 in the morning
+  - liam worked w/ eric
+
+needed to do deep analysis
+- every single byte
+- every single 01
+
+one month into research, just then
+discovered the payload
+- the purpose of the worm
+
+stux payload was 20x the size the average
+piece of code
+
+contains almost no bugs
+- extremely rare
+
+every piece of code does something
+and does it right in order to conduct
+the attack
+
+the zero day element was a surprising find
+it does what it does on its own with no interaction
+- no .exe or embed into a file
+- it just does
+- nobody knows but the attackers
+  - extremely rarely is elinated via system patches
+  - can't patch something you don't know is there
+
+zero days can be sold undergrand for hundreds of
+thousand
+
+4 zero days in stux
+that same year 12 other zero days were identified
+
+haven't seen it before and haven't seen since
+- 4x zero days could be worth half a million
+
+it was evident on early stage given the sophistication
+that a nation-state was involved, at least one in the dev
+
+usually nation-state code is scrubbed clean
+- in stux there was a few left behind
+
+in order to get low level access, stux
+needed a digital certificate
+- certifies that it came from a particular company
+
+- the certs were stolen from 2 companies in taiwan
+- nothing to do with each other except they are
+located in the same business park in taipei
+
+- intense physical security for certs
+- multiple doors and multipel pople to unlock
+both provide biometics and passphrases
+- not simply on some machine connected to the internet
+
+- felt like part of james bond movie
+- never expected
+
+eventually found more breadcrumbs
+- siemens
+  - maybe software or hardware
+  - was never seen before
+- targeting siemen plc
+  - programmable logic controller
+  - very small computer attached to physical equipment
+such as pumps or motors
+  - runs a digital program to set speed, turn on on
+  - used in factories and critical infrastructure such as
+power plants
+
+stux designed to attack a very important piece
+of crit infrastructure
+
+when uploaded to test system
+- discovered that malware was probing
+for controllers
+- quite picky on its target
+- didn't just target any old plc
+- went throught several checks
+- when failed, would not deliver payload
+- probing for a specific target
+
+huge effort taken to develop to target
+a very specific target
+- unusual
+
+stuxnet was seen all over the world
+- spread to any windows machine
+- very scary because the trigger was unknown
+was it a timer?
+was it looking for a specific number of machines infected?
+
+many companies panicked because they were infected
+and didn't know when anything was going to happen or
+if they were a target
+
+speed was of the essence
+- a ticking bomb
+
+iran was the number one country targeted
+- predominant number of systems infected
+- multiple explosions of gas pipelines going
+in and out of iran
+  - in the media, there was no explanation given
+- sec company noticed the assassinations
+of nuclear scientists
+
+"Look, I'm not suicidal"
+
+all of the PLCs have a unique identifier
+that identify the make and model of that device
+- a few of these numbers were identified in the code
+- but didn't know what they were
+
+searched for the numbers
+- identified as frequency converted from 2
+companies in Iran
+- export controlled from nuclear regulatory commission
+- the target is a nuclear facility
+
+Robert Sanger
+- nat sec correspondent NY times
+- first, biggest, and most sophisticated example
+of a nation state using cyber means for offensive purposes
+
+Tehran nuclear research reactor
+- construct in 1967
+
+how did iran get its first reactor?
+was given to them by US via the Shah
+because the Shah was an ally at the time
+
+Revolution overthrew Shah in 1979
+
+policy against Iran was to deny them
+nuclear technology
+
+80s, 90s the US went around the world trying
+to convince states to not give Iran anything nuclear,
+even non-weapon material
+
+The US missed the clandestine supply chains
+- pakistan to Iran
+
+Abdu Khan
+- father of pakis nuclear program
+
+Rolf Mowatt-Larssen
+- cia opeartions officer 1982-2005
+
+pakistan was the means by which
+other countries could acquire
+nuclear materials and tech
+
+80s iran program was mostly a R&D
+program
+- not well resourced
+-wasn't until 90s that a weapons program
+gained traction
+
+US invasion of Iraq after Kuwait was
+the suspected reason for Iran developing
+a weapons program
+- US wiped out enemy forces in a matter of
+weeks
+- Iran wanted a means to defend itself
+
+2003-2005 iran feared that US would invade
+
+2006 US was bogged down in Afghanistan
+- US no longer had capacity to threaten them
+- the uranium enrichment continued
+
+Natanz Fuel Enrichment Plant
+- Isfahan Province Iran
+- built in secret
+- called it a desert irrigation facility
+- a lot artillery and air force
+- better protected from air attack
+than other nuclear facilities viewed
+- deeply underground
+- inside, like any other centrifuge
+
+what is the IAEA?
+- what goes in? out?
+- lower enrichment can't be used for weapons
+
+facility is under 24/7 survellance from the UN
+every single gram is accounted for
+- seals IAEA seals are used for containers
+
+isotope 236
+- only seen in states w/ nuclear weapons
+- realized that Iran had cheated the IAEA
+- material was bought from the black market
+
+surprised by the quality control and manufacturing
+- result of long process
+
+a centrifuge feeds in uranium gas
+and out comes uranium enriched
+
+finely tuned, any vibration it will blow up
+temperature is finely controlled
+- makes them very difficult to manufacture
+- balance or rotation rate and managing temp
+
+Iran has a National Nuclear Day
+- propaganda distributed in April
+
+aknaminjad iranian president
+- claimed that he will deny inspections
+- claims to have a right to nuclear
+- who are they to say we can't have nuclear
+- these words galvanaized the public
+
+2007/08
+US was leary over Iran's nuclear
+- Bush couldn't come out and say that
+iran was making them
+- becasuse of the WMD fiasco in Iraq
+- condolesa rice said to him that she thinks
+he invaded his last muslim country even
+for the best of reasons
+
+He didn't want he israelis conduct a mil
+operation
+
+israel was saying they were going to bomb iran
+- the US was gameplanning what to do if this happened
+- israel has a good but small air force
+- there is a great distance between israel and iran
+
+The US wondered if Israel's intent was to destroy
+Iran's nuclear capability or to coax the US
+into war w/ Iran
+
+Israel had more of a stake in the Iran's nuke
+capability because they are closer and smaller
+
+Iran would be the first Islamic zealots
+should they have nuke weapon capability
+
+Supreme Leader Khamenei
+
+Once they have the fissile material,
+the game is lost
+
+"I don't want any president to be faced
+with only 2 options: bombing or the bomb."
+- Bush to Hayden
+
+US and Israel have a good intel cooperation
+
+Langner
+- german cyber analyst
+
+cyber intel services looked at the OSINT photos
+- commercial and state services
+
+one of the photos depicted a scientist giving
+the president a tour
+- he was assassinated a few months after the tour
+
+There were six groups of centrifuges
+- 164 entries
+- this was a perfect match to the attack code
+- targeting an array of 6 groups each w/
+164 elements
+
+PLCs (exact models) were obtained
+ordered an air pump for proof on concept
+Symantec guys
+- settled on blowing up a balloon
+- wrote a program to do this
+- set to stop at 5 seconds
+- inflate to a certain size
+- won't blow up
+
+infect this model w/  stuxnet
+- ran test again
+- the balloon blew up
+- PLC signaled the pump to keep blowing
+- piece of software that should exist
+only in cyber realm that affects infrastructure
+in the physical world
+
+malware potentially killing people
+in real life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

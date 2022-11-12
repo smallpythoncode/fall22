@@ -1,0 +1,430 @@
+Presentation 7.4
+control over our devices and data
+
+is it safer or more dangerous that these companies
+try to control data
+
+safer - sensitive data can be protected
+more dangerous - threats can be identified
+
+seller was trying to a book on kindle
+that seller did not have rights to
+- amazon removed it remotely and issued
+refunds
+- customers were upset becasue they were not
+aware amazon had the ability to remove content
+that they paid for
+- amazon has not done it since
+  - they recognize that it made them
+uneasy
+  - but do they still have the ability
+
+Apple has the same ability
+- removed an app that has malware w/in
+- still, people were leary about the company
+could control remotely
+
+IT cells have the same ability
+- can add and remove software at will
+
+The intent is to keep harmful or buggy software
+off of the systems
+- updates can introduce their own bugs
+
+Microsoft was transfering from windows 8 to 10
+- updates at inconvenient times caused loss of
+work
+- at they time, mic stated that explicit consent
+was needed for update
+  - reports that it happened regardless
+- updates are important but they are inconvenient
+- people are leary about moving to 11 for update
+reasons and privacy reasons
+
+self driving cars
+- are the updates full of bugs or smooth-running?
+- a bit more life or death than a windows update
+
+remote control is often intended to protect the customer
+and people's rights
+- but they people like muh data
+
+==============================
+Presentation 7.5
+making decisions about tech
+- putting things in perspective
+- what are the limitations
+- what equipment is best suited for certain environments
+
+people will choose to use tech for mostly good reasons
+but there is always a number who use it for ill
+
+currently, major corporations and sometimes states
+control the flow of tech
+- there is no democracy, the people often don't have
+a say
+
+the guy who ran lambda from google (ai) was the ethics
+guy
+- brought up concerns and management ignored
+- who decides what is ethical
+
+What are the ethics that relate to the singularity
+
+some people say that we should use more advanced
+tech until we fully understand all the ethical implications
+
+people really couldn't predict zoom calls for business
+at the advent of computers
+
+couldn't have predicted social media
+at the advent of cell phones
+
+Apple itself at one time was uncertain of its ability
+to produce a smart phone
+- now, iPhones are everywhere
+
+experts were once skeptical about speech recognition
+- used to take huge amounts of equipment
+- what would customers even use it for?
+- how would it be economically viable?
+
+Where will social media go from here?
+- can we even fathom?
+
+will implants into the brain become a thing?
+- can we download human brains into robot bodies
+- given the exponential growth, it is a remote possibility
+
+singularity
+- the point at which tech is so advanced that
+humans cannot fully understand it anymore
+
+counter arguments
+- hardware or software growth in tech may slow down
+- increasing difficulty to reach singularity
+
+Where do you draw the line on what to develop tech-wise
+- is capitalism in line with such a tech utopia?
+- do we prioritize tech or fellow humans?
+
+Tech is being rapidly pursued
+- Should we the people be involved?
+
+Currently, tech companies at times don't worry about
+the ethics
+- they have stock holders to appease
+- lawyers cost money
+- just release it, bro
+
+==============================
+Presentation 8.1
+FAILURES AND ERRORS OF COMPUTER SYSTEMS
+
+because of the complexity of systems these days,
+bugs are just expected
+- but where is the human error?
+
+individual errors
+- mispell name
+large amounts of people or large amounts of money
+- tax eval systems
+critical equipment
+- aviation systems, medical
+
+billing errors
+- 6.3 million charged
+- simple human error, bad input
+
+large errors are easy to detect
+- damage to reputation
+- could have been circumvented with a software
+test for extremes
+
+even if there is only a 99.99% chance of error,
+should the system automatically check for that?
+or should some errors be left to a case by case basis?
+
+a 14 year old was barred from football in high school
+- also taking some classes
+- the system code stated that he had done drugs
+in middle school
+- what actually happened was his previous school
+had a different discipline documentation scheme
+  - the old code said he chewed gum and was late to a class
+
+data is just data
+- what is the context behind the data?
+
+a large population of people
+- there is bound to be error
+
+how to improve
+- data entry auditing
+- training people on what the data means
+
+2002 congress passed authorization to make
+voting more digital
+a slew of bugs
+- crashes
+- votes going to the wrong people
+- was it encrypted?
+- what is physically secure?
+
+lack of thought of security and planning
+- people are lazy
+
+some systems are so flawed that they are completely abandoned
+
+british national health service
+10 million pounds, system abandoned after 9
+years due to frequent errors
+
+legacy systems are still in use
+- banks, airlines, etc
+- big industries
+- so advanced that upgrading it would
+have great cost in time and money
+- software documenation standards
+were more lax
+  - can't just call up the guy
+who made it because he's dead
+- cyber security was not a concern in
+the 70s
+
+2 main reasons why systems fail
+1. task is extremely complex
+- data taxing
+2. built poorly
+- no care taken in
+
+sometimes it comes down to poor management
+- if all that matters is getting code out
+the door, corners will be cut
+- sometime people are overconfident in their code
+
+Aran 5 was aborted and blown up
+- code reused from Aran 4
+- passed the tests, but it was
+a completely different system
+
+some errors are easily detectable
+- less obvious errors often go uncorrected
+
+make they next guy's job easier
+- write good code w/ good documentation
+
+==============================
+Presentation 8.2
+PERSON WAS NOT HERE!
+
+==============================
+
+how can you do attribution to code?
+- in such an attack, there isn't going to be
+a banner saying, "hey, this was me. I did this."
+- even if there was, such a thing could
+be completely false
+
+even civilians were uneasy to talk about stux
+- they were afraid of pissign off DC
+and Telaviv
+
+confirming america's involvement on the record
+the interviewer was masked with audio
+and video obfuscation
+
+This is not a Snowden kind of thing
+- he was a rogue contractor who revealed too much
+
+this person on camera was in NSA
+- chose to speak because she believes
+everyone is getting the story wrong
+- can only go into so much detail
+  - even though public analysis is pretty clear
+on who did it
+- she believes that we have to get the
+story right in order to understand the heavy
+implications of such a new weight
+
+she says that the US for a fact did Stuxnet
+- we came so close to disaster
+- a huge multinational interagency operation
+- CIA, NSA, Cyber Command
+- CGHQ for britain
+- unit 8200 in israel
+  - they key to the sword was israel
+
+Yossi
+- has been covering Iran for 30 years
+
+
+western values are very rare in Israel
+- same w/ democratic
+- has a western skin
+- people seem very free
+- there are lots of fanatics, religious zealots, etc
+
+Yossi Melman
+- he had a hunch that Israel was involved
+because Israel has been trying to degrade
+Iran's nuke capability from the beginning
+
+1981 F-16 pilot
+- have to be prepared for a long-range mission
+to destroy a valuable target
+- they weren't given intel on what the target was
+- 600 miles from Israel
+- Maj Gen Amos Yadlin
+  - Commander of Israeli Defense Intel, 2006-2010
+- no air refueling at the time
+- no sats for recon
+- limited fuel
+
+accomplished the mission at the end of the day
+- destroyed the Iraqi nuclear reactor
+- Iraq was never able to reach the bomb
+
+8200
+- they break into computers
+- block faxes and phone calls
+
+when Yadlin joined, there was no cyber warfare unit
+- they began to hire hackers from both
+inside and outside the military
+
+in 19 cen there was only army and navy
+20 cen there was an air force
+21 cen there came cyber
+- a low signature global threat
+
+the superpowers have to change how to view warfare
+
+West Point
+Info Warfare Live Fire Range
+- Bush era was just the start
+of investment in cyber weapons
+- Robert Gates reviewed this program
+and said it should be in the DoD
+and said in should be in the intel community
+- CIA operated
+- NSA and 8200 developed
+- newly created US Cyber Command
+  - director of NSA has second role
+of US Cycom
+- same building as NSA at Fort Meade
+
+Col Gary D Brown
+- Staff Judge Advocate, Cyber comm 2009-2012
+
+Operation Buckshot Yankee
+- adversaries inside classified networks
+- confidence that adversaries were kept at the
+cyber perimter
+  - came to the conclusion that cyber is never
+truely secure
+
+NSA uses it's abilities for defense
+cyber comm takes responsibility for attacks
+
+NSA has no legal authority to attack in cyberspace
+cycom has the authority to attack
+
+NSA was supposed to be a code breaking
+and code making organization to monitor the comms
+for foreign powers and American adversaries
+- defensive posture
+- creation of cyber comm meant using the same
+tech for offensive purposes
+
+tens of thousands of foreign computers
+have implants from the US
+- if you can spy on a system, you can exploit it
+- only thing that is needed is an act of will
+- Hayden
+
+NSA had combat support teams in field in Iraq
+- for the first time, mil forces had direct
+access to NSA intel
+
+over time, NSA thought more about offense than defence
+NSA had access to all the traffic going in and out
+of the country
+- complete surveillance state
+- follow adversaries in real time
+- can access phones even if they were off
+- can send messages to adversaries suggesting meeting
+places, a trap for capture
+
+How can cyber facilitate traditiona mil ops?
+
+TAO-S321 "The ROC"
+tailored access operations
+- the NSA hackers
+  - on net operators
+  - the only people allowed at NSA to break in
+or attack on the internet
+
+remote operations center
+- if the US govt wants to get into somewhere,
+it goes throught the ROC
+- so flooded w/ requests that only 30% of requests
+could be fulfilled
+- once inside a target network, they could watch and wait
+- or they could attack
+
+NSA never called it Stuxnet
+- that was a name used by the antivirus guys
+
+NSA called it the Olympic Games
+Sandia National Labs in New Mexico
+- here and fort meade was where the PLCs were tested
+- that and Oak Ridge
+
+Was there concerns that this was an act of war?
+- if there were, some guy w/ glasses didn't find them
+- this was an entirely new territory
+
+Lawyers said this is what we may do, not what can
+be done
+- next level is what should be done
+  - can and may, but is it a good idea?
+
+Someone at NSA has to give the authority to launch
+the attack
+
+inside of the code was a kill date
+- the date at which it could no longer be executed
+- more normal attacks don't have such a thing
+in the code
+- there are laws governing how gov agencies can operate
+  - evidence that a team of lawyers was there to
+advise
+- launch of attack was a few days before
+Obama's inaguration
+  - a clean change of command
+
+Obama put a premium on cyber infrastructure
+- talked at great length about defense
+- when asked about offensive cyber, the crickets could be heard
+  - white house, NSA, pentagon were all silent
+- the budget stated that $52.6 billion was being
+allocated to the development of offensive cyber weapons
+
+Title 10 CNO
+- T10 relating the the military
+- CNO computer network operations
+
+PICKUP AT YOUTUBE VIDEO TIME 1:05:45
+watch the remainder!!!!
+
+
+
+
+
+
+
+
+
+
+

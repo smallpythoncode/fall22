@@ -1,0 +1,103 @@
+stuxnet was a revolution in the threat landscape
+
+prior malware had a callback to an operator
+and wait for more commands
+
+stuxnet couldn't have a c2 cape as there
+is an airgap
+
+there is not truly airgapped network
+- need to update code, retrieve code
+
+it may not be connected to the internet
+- but it is accessbile
+
+first time natanz was infiltrated via
+human means
+
+code and logic needed to be able to act
+on its own
+- attack can't be called off
+- there was no turning back once it was released
+
+stuxnet would wait for 13 days
+- when the centrifuges are likely to be full
+- payload delivered
+
+stux would record the "good" data
+- send the good data after cent ran
+for 2hz or 1400hz for a minute
+  - breaking it as it normally operates
+at 1000hz
+
+stux intercepted the gradual shutdown
+code and prevented it
+
+stux was blowing up cents and the
+iran had no idea what was going on
+- pushed to the negotiating table
+- scientists fired
+  - they assumed sabotage of
+incompetence
+
+2010
+code was changed
+
+cyber solution needed to be implemented
+- human implementers couldn't always update
+the code to the target system
+
+code analyzers discovered version numbers
+prior version were less aggressive
+
+aggression needed to be balanced
+- too aggressive, it spreads to absolutely
+everywhere
+- not aggressive enough and it couldn't
+pass through airgaps
+
+nsa devs laughed at the idea of an airgap
+- there is an idea
+
+stux kept a log of the machines that
+it infected
+
+the government was okay with it spreading
+to innocent computers to ensure
+that it had wide reach and eventually reach
+natanz
+
+israel took the code
+- modified it and sent it off
+without coordinating w/ US
+- isreal gov gave great pressure to program
+managers
+- isreal fucking with the code made it
+more noticeable
+  - started shutting down computers
+  - this is how we know about it
+
+identified in belarus
+- eventually, russia and iran got their
+hands on the code
+
+stux is an attack in peacetime on
+infrastructure
+
+ts/nf doc titled
+presidential policy directive/ppd-20 was
+eventually leaked by snowden
+- stated that each use of a cyber
+weapon requires a presidential sign-off
+
+# pickup at 1:32:20
+
+
+
+
+
+
+
+
+
+
