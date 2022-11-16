@@ -1,0 +1,53 @@
+presentation - 8.3
+
+increasing reliability and safety
+- risk management
+- safety precautions around software dev
+
+software engineering code of ethics
+
+safety critcal applications
+- make sure we follow safety guidelines
+instead of just having the poster on the
+bulletin board
+
+challenger disaster wasn't a computer
+error
+- humans decided to not head the weather
+warnings
+- not in line w code of ethics
+
+companies often have risk management
+divisions
+- exist because they believe
+something will eventually will go wrong
+- there to be ready to respond
+
+having clear and easy to use
+guides and response protocols
+can alleviate errors or disaster
+
+a light on the dash where you have no idea
+what it means is not very helpful
+- how are you supposed to fix something
+that you don't know what it is?
+
+autopilot systems are limited
+- pilots aren't allowed to just go
+to sleep
+- they don't need to be on edge for 
+8 hours
+- but they also need to be aware
+and concious enough to respond
+to something as it happens
+
+testing
+- you need to get out of your own
+headspace sometimes
+- you may review something
+12 times and as soon as you hand
+it over to someone else, they find
+several errors
+
+# pickup at 5 min
+
