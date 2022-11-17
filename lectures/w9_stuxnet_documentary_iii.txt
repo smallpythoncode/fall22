@@ -90,7 +90,125 @@ eventually leaked by snowden
 - stated that each use of a cyber
 weapon requires a presidential sign-off
 
-# pickup at 1:32:20
+Noone in the government would even whisper
+anythin about stux
+- couldn't say "computer network attack"
+  - former director of NSA stating this
+is overclassified
+- claimed as a matter of national security
+- dripping in secrecy
+
+David Sanger wrote a piece for NYT
+given a full timeline of stux events
+
+Gen James Cartwright
+was charged with potential espionage
+- perhaps I misheard
+for discussing details that may
+have related to Stux
+
+NSA polygraphed everyone in the light
+of the potential leak
+- even the interns
+
+Why is the US still so secret about stux
+even though it's clear to the world
+that the US did this
+- we can talk about bunker buster weapons
+- why not this weapon system?
+  - perhaps because if the US acknowledged it,
+it would send the message to the world
+that this is now a legitimate form of warfare
+and is allowed to be used in the "parlance" of
+battle
+
+Treaties on cyber warfare don't exist right now
+- uncharted territory
+- kinetic attacks are obvious
+- cyber attacks are very gray
+  - how much is an attack is an "attack"
+
+nuclear inspections of both sides are commonplace
+- what and where would you even inspect
+if there was a cyber treaty
+- russia and china don't really come to the table
+as far as reaching agreements on cyber warfare
+
+the norm for cyber is "do whatever you can
+get away with"
+
+international law on this matter is written by
+custom
+- this is what we did, this is why we did it
+- perhaps the US doesn't want to acknowledge
+stux because then that discussion is now
+on the table
+
+as a nation, we need to have a debate on the use
+of cyber weapons because we are extremely vulnerable
+to cyber attacks ourselves
+
+the critical infrascture we depend on today
+we built decades ago
+- security wasn't in mind at the time
+- there are vulnerabilities up and down
+  - which elements are easy to get into
+- we know that a number of these
+systems have been hacked by foreign
+entities
+
+Iranian Cyber Army
+- many have joined as a response to the
+public shaming of Iran brought on by
+stux attack
+
+responded with 2 attacks
+saudi aramco
+- biggest oil company in the world
+- 30K computer devices
+  - every line of code was wiped out
+surge attack on US banks
+
+Obama let the private sector deal
+w/ the US bank attacks
+
+Iran stated "we know you did this...
+knock it off because we can do it too."
+
+Nitro Zeus
+- the overarching program
+that stuxnet was a part of
+- allegedly
+- hundreds of millions of dollars
+  - perhaps billions
+- assumed US would be dragged into conflict
+if Israel launched attack
+- degraded IADS and civilian systems
+- Stuxnet was a back alley operation
+in light of Nitro Zeus
+
+July 14, 2015
+- agreement w/ Iran to not enrich weapons
+grade uranium for at least the next 10 years
+- behind this deal was a lot of US confidence
+in their cyber capability w/in Iran
+  - Us has their tentacles there still today
+- Nitro Zeus is the cyber warfare futuristic
+science fiction we've all had nightmares about
+
+If power is disabled, then water can't be filtered
+if this carries on for weeks, lots of people die
+- if we can do it to them, they can do it to us
+
+
+
+
+
+
+
+
+
+
 
 
 

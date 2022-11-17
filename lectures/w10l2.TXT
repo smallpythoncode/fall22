@@ -49,5 +49,144 @@ headspace sometimes
 it over to someone else, they find
 several errors
 
-# pickup at 5 min
+independent verification and validation
+- giving software to a third-party
+for testing
+- test in as many way imaginable
+(and unimaginable) to try to break the code
+
+some people believe there should be
+more laws pertaining to software
+development
+- similar to prescription drug laws
+  - who is accountable? how much can be
+given? how much testing is required
+
+=============
+
+presentation - 9.3.11-15
+
+social responsibility
+
+# with all the static, i cannot make
+out a single word
+
+keep private matters separate from
+business matters
+- you are reflection of the company
+- don't use company resources for 
+personal matters
+
+conflicts of interest
+
+# this guy has trouble clearly stating
+his point
+
+# what is a kickback?
+- he mentioned it but with the static
+it was difficult to glean
+
+it is important for companies to clearly
+state their employee/employer relationship
+policies so employers don't abuse
+employees and employees can express
+gratitude to the company if desired
+
+# this dude mumbles a lot...i don't know
+what he is saying
+- skipping him
+
+================
+
+presentation - 9.3.6-10
+
+different scenarios and ethics
+that apply
+
+ways to address problems
+1. let the problems ride and hope
+noone notices (bad)
+2. bring it up to management and propose
+a solution (good)
+3. release software early to appease
+upper management but with known testing
+gaps (bad ethically, but good financially)
+4. wait for testing
+- good for safety long-term
+- not so good short-term because
+customers can't get their hands on it
+- bad for profit because delays cost dollars
+
+a lot of this boils down to safety and
+accuracy vs profit and self-interest,
+i.e., keeping your job
+
+===============
+
+presentation - 9.3.1-5
+
+it is difficult for humans to temporarily
+set aside their biases to wholly analyze
+the good and bad outcomes of good
+and bad methods of handling problems
+
+is it honest, responsible?
+does it violate an agreement?
+
+brainstorm and analysis phase
+
+who is affected? who gets benefits?
+what are avenues of approach?
+
+analysis phase
+identify whose decision it is to make
+who are the stakeholders
+
+designing an application w/ targeted
+ads
+
+app has user share some of their data
+and gives option to send links
+to stories to their friends
+- privacy policy should outline
+what information is used
+- ads that can be traced back to a
+user operations should
+be outlined in the policy
+- people don't read terms
+and conditions most of the time
+  - signing a legal document
+w/out reading it
+
+should the data not be stored?
+
+- how long data is stored, how
+it is used, how is it distributed,
+the whole 9
+
+- should offer an opt-out version
+for random ads (not personalized)
+- increases privacy and
+good faith to customers
+- can offer premium version
+of app to not offer ads at all
+
+publishing security vulnerabilities
+MIT was going to talk about vuls in
+boston transport networks
+- network management takes issue
+w/ this and gets judge to order
+that presentation not be made to public
+the students suggest publishing
+it to the internet and share
+the idea w/ you
+- what do you do?
+
+================
+
+dr. grant
+
+15 minute presentation
+starts on the 9th
+
 
