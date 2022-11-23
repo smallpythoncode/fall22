@@ -8,3 +8,6 @@ venv/
 lectures/video/*
 !.gitkeep
 *.mp4
+num.TXT
+
+
